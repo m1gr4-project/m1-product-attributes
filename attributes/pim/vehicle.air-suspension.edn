@@ -1,0 +1,6 @@
+
+{:air-bellows
+ {:description {:en-gb "Air bellows (air springs) included with the product."
+                :hu-hu "A termékhez mellékelt légpárnák (légrugók)."}
+  :label       {:en-gb "Air bellows"
+                :hu-hu "Légpárnák"}}}

@@ -1,0 +1,26 @@
+
+{:map-data-provider
+ {:description {:en-gb "Provider of map data required for using the product."
+                :hu-hu "A termék használatához szükséges térképadatok szolgáltatója."}
+  :label       {:en-gb "Map data provider"
+                :hu-hu "Térképadat szolgáltató"}}
+
+ :poi-collections
+ {:description {:en-gb "Available POI collections of the product."
+                :hu-hu "A termékhez elérhető POI gyűjtemények."}
+  :label       {:en-gb "POI collections"
+                :hu-hu "POI gyűjtemények"}}
+
+ :software-type
+ {:description {:en-gb "Type of software included with the product."
+                :hu-hu "A termékhez mellékelt szoftver típusa."}
+  :label       {:en-gb "Software type"
+                :hu-hu "Szoftver típus"}}
+
+ :software-updates
+ {:key         :software-updates
+  :type        :string
+  :description {:en-gb "Availability period of softwares included with the product."
+                :hu-hu "A termékhez mellékelt szoftverek frissítéseinek elérhetőségi időszaka."}
+  :label       {:en-gb "Software updates"
+                :hu-hu "Szoftverfrissítések"}}}

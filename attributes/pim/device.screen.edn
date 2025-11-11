@@ -1,0 +1,30 @@
+
+{:brightness
+ {:description {:en-gb "Display screen brightness of the product."
+                :hu-hu "A termék kijelzőjének fényereje."}
+  :label       {:en-gb "Brightness"
+                :hu-hu "Fényerő"}}
+
+ :contrast-ratio
+ {:description {:en-gb "Display screen contrast ratio of the product."
+                :hu-hu "A termék kijelzőjének kontrasztaránya."}
+  :label       {:en-gb "Contrast ratio"
+                :hu-hu "Kontrasztarány"}}
+
+ :diagonal-size
+ {:description {:en-gb "Display screen diagonal size of the product."
+                :hu-hu "A termék kijelzőjének átlós mérete."}
+  :label       {:en-gb "Diagonal size"
+                :hu-hu "Átlós méret"}}
+
+ :resolution
+ {:description {:en-gb "Display screen resolution of the product."
+                :hu-hu "A termék kijelzőjének felbontása."}
+  :label       {:en-gb "Resolution"
+                :hu-hu "Felbontás"}}
+
+ :viewing-angle
+ {:description {:en-gb "Display screen maximum viewing angle of the product."
+                :hu-hu "A termék kijelzőjének maximális betekintési szöge."}
+  :label       {:en-gb "Viewing angle"
+                :hu-hu "Betekintési szög"}}}

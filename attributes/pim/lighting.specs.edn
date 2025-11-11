@@ -1,0 +1,18 @@
+
+{:beam-angle
+ {:description {:en-gb "Beam angle / light dispersion angle of the product."
+                :hu-hu "A termék sugárzási / megvilágítási szöge."}
+  :label       {:en-gb "Beam angle"
+                :hu-hu "Sugárzási szög"}}
+
+ :bulb-socket
+ {:description {:en-gb "Light bulb socket / base type of the product."
+                :hu-hu "A termék csatlakozótípusa / izzófoglalata."}
+  :label       {:en-gb "Bulb-socket"
+                :hu-hu "Izzófoglalat"}}
+
+ :luminous-flux
+ {:description {:en-gb "Total amount of visible light emitted by the lighting product."
+                :hu-hu "A termék által kibocsátott látható fény teljes mennyisége."}
+  :label       {:en-gb "Luminous flux"
+                :hu-hu "Fényáram"}}}

@@ -1,0 +1,36 @@
+
+{:retail-price-CHF
+ {:description {:en-gb "Retail price of the product (CHF)."
+                :hu-hu "A termék kiskereskedelmi ára (CHF)."}
+  :label       {:en-gb "Retail price (CHF)"
+                :hu-hu "Kiskereskedelmi ár (CHF)"}}
+
+ :retail-price-EUR
+ {:description {:en-gb "Retail price of the product (EUR)."
+                :hu-hu "A termék kiskereskedelmi ára (EUR)."}
+  :label       {:en-gb "Retail price (EUR)"
+                :hu-hu "Kiskereskedelmi ár (EUR)"}}
+
+ :retail-price-USD
+ {:description {:en-gb "Retail price of the product (USD)."
+                :hu-hu "A termék kiskereskedelmi ára (USD)."}
+  :label       {:en-gb "Retail price (USD)"
+                :hu-hu "Kiskereskedelmi ár (USD)"}}
+
+ :wholesale-price-CHF
+ {:description {:en-gb "Wholesale price of the product (CHF)."
+                :hu-hu "A termék nagykereskedelmi ára (CHF)."}
+  :label       {:en-gb "Wholesale price (CHF)"
+                :hu-hu "Nagykereskedelmi ár (CHF)"}}
+
+ :wholesale-price-EUR
+ {:description {:en-gb "Wholesale price of the product (EUR)."
+                :hu-hu "A termék nagykereskedelmi ára (EUR)."}
+  :label       {:en-gb "Wholesale price (EUR)"
+                :hu-hu "Nagykereskedelmi ár (EUR)"}}
+
+ :wholesale-price-USD
+ {:description {:en-gb "Wholesale price of the product (USD)."
+                :hu-hu "A termék nagykereskedelmi ára (USD)."}
+  :label       {:en-gb "Wholesale price (USD)"
+                :hu-hu "Nagykereskedelmi ár (USD)"}}}

@@ -1,0 +1,12 @@
+
+{:furniture-type
+ {:description {:en-gb "Furniture type of the product."
+                :hu-hu "A termék bútortípusa."}
+  :label       {:en-gb "Furniture type"
+                :hu-hu "Bútortípus"}}
+
+ :mattress-firmness-level
+ {:description {:en-gb "Mattress firmness rating of the product (H1: softest -> H5: firmest)."
+                :hu-hu "A termék matrackeménységi besorolása (H1: legpuhább -> H5: legkeményebb)."}
+  :label       {:en-gb "Firmness rating"
+                :hu-hu "Keménységi besorolás"}}}

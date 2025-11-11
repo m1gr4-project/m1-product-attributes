@@ -1,0 +1,18 @@
+
+{:content-pieces
+ {:description {:en-gb "Number of pieces / items included in the product."
+                :hu-hu "A termék darab-szerinti tartalma."}
+  :label       {:en-gb "Content (pieces)"
+                :hu-hu "Tartalom (darab)"}}
+
+ :content-volume
+ {:description {:en-gb "Volume capacity content of the product."
+                :hu-hu "A termék térfogat-szerinti tartalma."}
+  :label       {:en-gb "Content (volume)"
+                :hu-hu "Tartalom (térfogat)"}}
+
+ :content-weight
+ {:description {:en-gb "Weight content of the product."
+                :hu-hu "A termék tömeg-szerinti tartalma"}
+  :label       {:en-gb "Content (weight)"
+                :hu-hu "Tartalom (tömeg)"}}}

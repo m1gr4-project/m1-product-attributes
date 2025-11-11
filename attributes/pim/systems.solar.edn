@@ -1,0 +1,18 @@
+
+{:daily-energy-output
+ {:description {:en-gb "Daily energy output of the product."
+                :hu-hu "A termék napi energiatermelése."}
+  :label       {:en-gb "Daily energy output"
+                :hu-hu "Napi energiatermelése"}}
+
+ :open-circuit-voltage
+ {:description {:en-gb "Open-circuit voltage rating of the product."
+                :hu-hu "A termék Üresjárati feszültség besorolása."}
+  :label       {:en-gb "Open-circuit voltage"
+                :hu-hu "Üresjárati feszültség"}}
+
+ :short-circuit-current
+ {:description {:en-gb "Short-circuit current rating of the product."
+                :hu-hu "A termék rövidzárási áram besorolása."}
+  :label       {:en-gb "Short-circuit current"
+                :hu-hu "Rövidzárási áram"}}}

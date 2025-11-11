@@ -1,0 +1,24 @@
+
+{:country-of-origin
+ {:description {:en-gb "Country of origin for the product."
+                :hu-hu "A termék származási országa."}
+  :label       {:en-gb "Country of origin"
+                :hu-hu "Származási ország"}}
+
+ :manufacturer
+ {:description {:en-gb "Manufacturer of the product."
+                :hu-hu "A termék gyártója."}
+  :label       {:en-gb "Manufacturer"
+                :hu-hu "Gyártó"}}
+
+ :manufacturer-supplier
+ {:description {:en-gb "Manufacturer / supplier of the product."
+                :hu-hu "A termék gyártója / beszállítója."}
+  :label       {:en-gb "Manufacturer / supplier"
+                :hu-hu "Gyártó / beszállító"}}
+
+ :supplier
+ {:description {:en-gb "Supplier of the product."
+                :hu-hu "A termék beszállítója."}
+  :label       {:en-gb "Supplier"
+                :hu-hu "Beszállító"}}}

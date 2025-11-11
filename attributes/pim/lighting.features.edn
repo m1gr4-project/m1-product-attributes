@@ -1,0 +1,12 @@
+
+{:is-dimmable?
+ {:description {:en-gb "Indicates whether the lighting product is dimmable."
+                :hu-hu "Jelzi, hogy a termék fényereje szabályozható-e."}
+  :label       {:en-gb "Dimmable"
+                :hu-hu "Fényerőszabályozható"}}
+
+ :with-led?
+ {:description {:en-gb "Indicates whether the product includes LED lighting or LED technology."
+                :hu-hu "Jelzi, hogy a termék LED világítást vagy LED technológiát tartalmaz-e."}
+  :label       {:en-gb "LED"
+                :hu-hu "LED"}}}

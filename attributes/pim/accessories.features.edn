@@ -1,0 +1,12 @@
+
+{:with-drain-tap?
+ {:description {:en-gb "Indicates whether the product comes with a drain tap / valve included."
+                :hu-hu "Jelzi, hogy a termék rendelkezik-e leeresztőcsappal / szeleppel."}
+  :label       {:en-gb "With drain tap"
+                :hu-hu "Leeresztőcsappal"}}
+
+ :with-forced-ventilation?
+ {:description {:en-gb "Indicates whether the product has forced ventilation."
+                :hu-hu "Jelzi, hogy a termék rendelkezik-e kényszerszellőzéssel."}
+  :label       {:en-gb "With forced ventilation"
+                :hu-hu "Kényszerszellőzéssel"}}}

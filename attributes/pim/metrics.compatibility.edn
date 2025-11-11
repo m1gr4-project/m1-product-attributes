@@ -1,0 +1,72 @@
+
+{:compatible-depth-max
+ {:description {:en-gb "Maximum depth the product is compatible with."
+                :hu-hu "A termékkel kompatibilis maximális mélység."}
+  :label       {:en-gb "Depth (up to)"
+                :hu-hu "Mélység (-ig)"}}
+
+ :compatible-depth-min
+ {:description {:en-gb "Minimum depth the product is compatible with."
+                :hu-hu "A termékkel kompatibilis minimális mélység."}
+  :label       {:en-gb "depth (from)"
+                :hu-hu "Mélység (-tól)"}}
+
+ :compatible-height-max
+ {:description {:en-gb "Maximum height the product is compatible with."
+                :hu-hu "A termékkel kompatibilis maximális magasság."}
+  :label       {:en-gb "Height (up to)"
+                :hu-hu "Magasság (-ig)"}}
+
+ :compatible-height-min
+ {:description {:en-gb "Minimum height the product is compatible with."
+                :hu-hu "A termékkel kompatibilis minimális magasság."}
+  :label       {:en-gb "Height (from)"
+                :hu-hu "Magasság (-tól)"}}
+
+ :compatible-length-max
+ {:description {:en-gb "Maximum length the product is compatible with."
+                :hu-hu "A termékkel kompatibilis maximális hosszúság."}
+  :label       {:en-gb "Length (up to)"
+                :hu-hu "Hosszúság (-ig)"}}
+
+ :compatible-length-min
+ {:description {:en-gb "Minimum length the product is compatible with."
+                :hu-hu "A termékkel kompatibilis minimális hosszúság."}
+  :label       {:en-gb "Length (from)"
+                :hu-hu "Hosszúság (-tól)"}}
+
+ :compatible-size-max
+ {:description {:en-gb "Maximum size the product is compatible with."
+                :hu-hu "A termékkel kompatibilis maximális méret."}
+  :label       {:en-gb "Size (up to)"
+                :hu-hu "Méret (-ig)"}}
+
+ :compatible-size-min
+ {:description {:en-gb "Minimum size the product is compatible with."
+                :hu-hu "A termékkel kompatibilis minimális méret."}
+  :label       {:en-gb "Size (from)"
+                :hu-hu "Méret (-tól)"}}
+
+ :compatible-thickness-max
+ {:description {:en-gb "Maximum thickness the product is compatible with."
+                :hu-hu "A termékkel kompatibilis maximális vastagság."}
+  :label       {:en-gb "Thickness (up to)"
+                :hu-hu "Vastagság (-ig)"}}
+
+ :compatible-thickness-min
+ {:description {:en-gb "Minimum thickness the product is compatible with."
+                :hu-hu "A termékkel kompatibilis minimális vastagság."}
+  :label       {:en-gb "Thickness (from)"
+                :hu-hu "Vastagság (-tól)"}}
+
+ :compatible-width-max
+ {:description {:en-gb "Maximum width the product is compatible with."
+                :hu-hu "A termékkel kompatibilis maximális szélesség."}
+  :label       {:en-gb "Width (up to)"
+                :hu-hu "Szélesség (-ig)"}}
+
+ :compatible-width-min
+ {:description {:en-gb "Minimum width the product is compatible with."
+                :hu-hu "A termékkel kompatibilis minimális szélesség."}
+  :label       {:en-gb "Width (from)"
+                :hu-hu "Szélesség (-tól)"}}}

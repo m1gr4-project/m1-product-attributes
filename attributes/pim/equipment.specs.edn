@@ -1,0 +1,18 @@
+
+{:awning-length
+ {:description {:en-gb "Awning length of the product."
+                :hu-hu "A termék előtetőhossza."}
+  :label       {:en-gb "Awning length"
+                :hu-hu "Előtetőhossz"}}
+
+ :awning-type
+ {:description {:en-gb "Awning type of the product."
+                :hu-hu "A termék előtetőtípusa."}
+  :label       {:en-gb "Awning type"
+                :hu-hu "Előtetőtípus"}}
+
+ :bike-carrier-capacity
+ {:description {:en-gb "Maximum number of bicycles that can be carried by the product."
+                :hu-hu "A termék által szállítható kerékpárok maximális száma."}
+  :label       {:en-gb "Bike carrier capacity"
+                :hu-hu "Kerékpárszállító-kapacitás"}}}

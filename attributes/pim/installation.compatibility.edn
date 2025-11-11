@@ -1,0 +1,36 @@
+
+{:compatible-floor-thickness-max
+ {:description {:en-gb "Maximum floor thickness the product is compatible with."
+                :hu-hu "Maximális padlóvastagság, amellyel a termék kompatibilis."}
+  :label       {:en-gb "Max. floor thickness"
+                :hu-hu "Max. padlóvastagság"}}
+
+ :compatible-floor-thickness-min
+ {:description {:en-gb "Minimum floor thickness the product is compatible with."
+                :hu-hu "Minimáls padlóvastagság, amellyel a termék kompatibilis."}
+  :label       {:en-gb "Min. floor thickness"
+                :hu-hu "Min. padlóvastagság"}}
+
+ :compatible-roof-thickness-max
+ {:description {:en-gb "Maximum roof thickness the product is compatible with."
+                :hu-hu "Maximális tetővastagság, amellyel a termék kompatibilis."}
+  :label       {:en-gb "Max. roof thickness"
+                :hu-hu "Max. tetővastagság"}}
+
+ :compatible-roof-thickness-min
+ {:description {:en-gb "Minimum roof thickness the product is compatible with."
+                :hu-hu "Minimáls tetővastagság, amellyel a termék kompatibilis."}
+  :label       {:en-gb "Min. roof thickness"
+                :hu-hu "Min. tetővastagság"}}
+
+ :compatible-wall-thickness-max
+ {:description {:en-gb "Maximum wall thickness the product is compatible with."
+                :hu-hu "Maximális falvastagság, amellyel a termék kompatibilis."}
+  :label       {:en-gb "Max. wall thickness"
+                :hu-hu "Max. falvastagság"}}
+
+ :compatible-wall-thickness-min
+ {:description {:en-gb "Minimum wall thickness the product is compatible with."
+                :hu-hu "Minimáls falvastagság, amellyel a termék kompatibilis."}
+  :label       {:en-gb "Min. wall thickness"
+                :hu-hu "Min. falvastagság"}}}

@@ -1,0 +1,66 @@
+
+{:brand
+ {:description {:en-gb "Brand of the product."
+                :hu-hu "A termék márkája."}
+  :label       {:en-gb "Brand"
+                :hu-hu "Márka"}}
+
+ :designation
+ {:description {:en-gb "Designation of the product."
+                :hu-hu "A termék rendeltetése."}
+  :label       {:en-gb "Designation"
+                :hu-hu "Rendeltetés"}}
+
+ :features
+ {:description {:en-gb "Key features and capabilities of the product."
+                :hu-hu "A termék főbb funkciói és képességei."}
+  :label       {:en-gb "Features"
+                :hu-hu "Tulajdonságok"}}
+
+ :product-description-detailed
+ {:description {:en-gb "Detailed description of the product."
+                :hu-hu "A termék részletes leírása."}
+  :label       {:en-gb "Detailed product description"
+                :hu-hu "Részletes termékleírás"}}
+
+ :product-description-general
+ {:description {:en-gb "General description of the product."
+                :hu-hu "A termék általános leírása."}
+  :label       {:en-gb "General product description"
+                :hu-hu "Általános termékleírás"}}
+
+ :product-description-short
+ {:description {:en-gb "Short description of the product."
+                :hu-hu "A termék rövid leírása."}
+  :label       {:en-gb "Short product description"
+                :hu-hu "Rövid termékleírás"}}
+
+ :product-line
+ {:description {:en-gb "Specific product series / line of the product."
+                :hu-hu "A termékre jellemző sorozat / termékvonal."}
+  :label       {:en-gb "Product line"
+                :hu-hu "Termékvonal"}}
+
+ :product-model
+ {:description   {:en-gb "Model of the product."
+                  :hu-hu "A termék modellváltozata."}
+  :label         {:en-gb "Model"
+                  :hu-hu "Modell"}}
+
+ :product-name
+ {:description {:en-gb "Name of the product."
+                :hu-hu "A termék neve."}
+  :label       {:en-gb "Name"
+                :hu-hu "Név"}}
+
+ :product-type
+ {:description {:en-gb "Type of the product."
+                :hu-hu "A termék típusa."}
+  :label       {:en-gb "Type"
+                :hu-hu "Típus"}}
+
+ :product-variant
+ {:description {:en-gb "Variant / configuration of the product."
+                :hu-hu "Termékváltozat / konfiguráció."}
+  :label       {:en-gb "Variant"
+                :hu-hu "Változat"}}}

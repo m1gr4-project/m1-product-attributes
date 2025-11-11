@@ -1,0 +1,54 @@
+
+{:air-connection
+ {:description {:en-gb "Type of the air connection fitting(s) on the product."
+                :hu-hu "A termék levegő csatlakozó-szerelvényeinek típusa."}
+  :label       {:en-gb "Air connection"
+                :hu-hu "Levegő csatlakozás"}}
+
+ :air-connection-cold
+ {:description {:en-gb "Type of the cold air connection fitting(s) on the product."
+                :hu-hu "A termék hideglevegő csatlakozó-szerelvényeinek típusa."}
+  :label       {:en-gb "Cold air connection"
+                :hu-hu "Hideglevegő csatlakozás"}}
+
+ :air-connection-hot
+ {:description {:en-gb "Type of the hot air connection fitting(s) on the product."
+                :hu-hu "A termék meleglevegő csatlakozó-szerelvényeinek típusa."}
+  :label       {:en-gb "Hot air connection"
+                :hu-hu "Meleglevegő csatlakozás"}}
+
+ :electrical-connection
+ {:description {:en-gb "Type of the electrical connection fitting(s) on the product."
+                :hu-hu "A termék elektromos csatlakozó-szerelvényeinek típusa."}
+  :label       {:en-gb "Electrical connection"
+                :hu-hu "Elektromos csatlakozás"}}
+
+ :fuel-connection
+ {:description {:en-gb "Type of the fuel connection fitting(s) on the product."
+                :hu-hu "A termék üzemanyag-csatlakozó szerelvényeinek típusa."}
+  :label       {:en-gb "Fuel connection"
+                :hu-hu "Üzemanyag csatlakozás"}}
+
+ :gas-connection
+ {:description {:en-gb "Type of the gas connection fitting(s) on the product."
+                :hu-hu "A termék gázcsatlakozó szerelvényeinek típusa."}
+  :label       {:en-gb "Gas connection"
+                :hu-hu "Gázcsatlakozás"}}
+
+ :water-connection
+ {:description {:en-gb "Type of the water connection fitting(s) on the product."
+                :hu-hu "A termék vízcsatlakozó szerelvényeinek típusa."}
+  :label       {:en-gb "Water connection"
+                :hu-hu "Vízcsatlakozás"}}
+
+ :water-connection-cold
+ {:description {:en-gb "Type of the cold water connection fitting(s) on the product."
+                :hu-hu "A termék hidegvíz-csatlakozó szerelvényeinek típusa."}
+  :label       {:en-gb "Cold water connection"
+                :hu-hu "Hidegvíz-csatlakozás"}}
+
+ :water-connection-hot
+ {:description {:en-gb "Type of the hot water connection fitting(s) on the product."
+                :hu-hu "A termék melegvíz-csatlakozó szerelvényeinek típusa."}
+  :label       {:en-gb "Hot water connection"
+                :hu-hu "Melegvíz-csatlakozás"}}}

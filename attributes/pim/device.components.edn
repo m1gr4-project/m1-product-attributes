@@ -1,0 +1,30 @@
+
+{:amplifier
+ {:description {:en-gb "Type of amplifier included with the product."
+                :hu-hu "A termék erősítőjének típusa."}
+  :label       {:en-gb "Amplifier"
+                :hu-hu "Erősítő"}}
+
+ :camera
+ {:description {:en-gb "Type of camera included with the product."
+                :hu-hu "A termék kamerájának típusa."}
+  :label       {:en-gb "Camera"
+                :hu-hu "Kamera"}}
+
+ :control-panel
+ {:description {:en-gb "Type of control panel or operating unit included with the product."
+                :hu-hu "A termék kezelőpaneljének / vezérlő egységének típusa."}
+  :label       {:en-gb "Control panel"
+                :hu-hu "Kezelőpanel"}}
+
+ :display
+ {:description {:en-gb "Type of display unit included with the product."
+                :hu-hu "A termék kijelzőjének típusa."}
+  :label       {:en-gb "Display"
+                :hu-hu "Kijelző"}}
+
+ :image-sensor
+ {:description {:en-gb "Type of image sensor included with the product."
+                :hu-hu "A termék képérzékelőjének típusa."}
+  :label       {:en-gb "Image sensor"
+                :hu-hu "Képérzékelő"}}}

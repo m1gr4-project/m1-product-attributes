@@ -1,0 +1,42 @@
+
+{:mirror-height
+ {:description {:en-gb "Height of the mirror surface on the product."
+                :hu-hu "A termék tükörfelületének magassága."}
+  :label       {:en-gb "Mirror height"
+                :hu-hu "Tükör magassága"}}
+
+ :mirror-size
+ {:description {:en-gb "Size of the mirror surface on the product."
+                :hu-hu "A termék tükörfelületének mérete."}
+  :label       {:en-gb "Mirror size"
+                :hu-hu "Tükör mérete"}}
+
+ :mirror-width
+ {:description {:en-gb "Width of the mirror surface on the product."
+                :hu-hu "A termék tükörfelületének szélessége."}
+  :label       {:en-gb "Mirror width"
+                :hu-hu "Tükör szélessége"}}
+
+ :securing-strap-length
+ {:description {:en-gb "Length of securing straps included with the product."
+                :hu-hu "A termékhez mellékelt rögzítőhevederek hossza."}
+  :label       {:en-gb "Length of straps"
+                :hu-hu "Hevederek hossza"}}
+
+ :shaft-length
+ {:description {:en-gb "Shaft length of the product."
+                :hu-hu "A termék tengelyhosszága."}
+  :label       {:en-gb "Shaft length"
+                :hu-hu "Tengelyhosszúság"}}
+
+ :sleeve-length
+ {:description {:en-gb "Sleeve length of the product."
+                :hu-hu "A termék burkolathosszága."}
+  :label       {:en-gb "Sleeve length"
+                :hu-hu "Burkolathosszúság"}}
+
+ :supporting-arm-length
+ {:description {:en-gb "Length of the supporting arm on the product."
+                :hu-hu "A termék tartókarjának hosszúsága."}
+  :label       {:en-gb "Supporting arm length"
+                :hu-hu "Tartókar hosszúsága"}}}

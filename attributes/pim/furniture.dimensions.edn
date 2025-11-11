@@ -1,0 +1,36 @@
+
+{:backrest-height
+ {:description {:en-gb "Height of the backrest on the product."
+                :hu-hu "A termék háttámlájának magassága."}
+  :label       {:en-gb "Backrest height"
+                :hu-hu "Háttámla magasság"}}
+
+ :backrest-width
+ {:description {:en-gb "Width of the backrest on the product."
+                :hu-hu "A termék háttámlájának szélessége."}
+  :label       {:en-gb "Backrest width"
+                :hu-hu "Háttámla szélesség"}}
+
+ :mattress-surface
+ {:description {:en-gb "Lying surface size of the product."
+                :hu-hu "A termék fekvőfelületének mérete."}
+  :label       {:en-gb "Lying surface"
+                :hu-hu "Fekvőfelület"}}
+
+ :seat-surface-depth
+ {:description {:en-gb "Depth of the seat surface on the product."
+                :hu-hu "A termék ülőlapjának mélysége."}
+  :label       {:en-gb "Seat surface depth"
+                :hu-hu "Ülőlap mélység"}}
+
+ :seat-surface-height
+ {:description {:en-gb "Height of the seat surface on the product (measured from the ground)."
+                :hu-hu "A termék ülőlapjának magassága (a földtől mérve)."}
+  :label       {:en-gb "Seat surface height"
+                :hu-hu "Ülőlap magasság"}}
+
+ :seat-surface-width
+ {:description {:en-gb "Width of the seat surface on the product."
+                :hu-hu "A termék ülőlapjának szélessége."}
+  :label       {:en-gb "Seat surface width"
+                :hu-hu "Ülőlap szélesség"}}}

@@ -1,0 +1,30 @@
+
+{:axis-attribute
+ {:description {:en-gb "PIM system axis attribute refering to the dimensions / axes along which the product varies."
+                :hu-hu "PIM rendszer referencia-attribútum, amely a termék szűkítési dimenzióit / tengelyeit határozza meg."}
+  :label       {:en-gb "Axis attribute"
+                :hu-hu "Referencia-attribútum"}}
+
+ :product-catalog-categories
+ {:description {:en-gb "Product catalog categories the product is listed in."
+                :hu-hu "Termékkatalógus-kategóriák, amelyekben a termék megjelenik."}
+  :label       {:en-gb "Product catalog categories"
+                :hu-hu "Termékkatalógus-kategóriák"}}
+
+ :product-catalog-category-codes
+ {:description {:en-gb "Codes of product catalog categories the product is listed in."
+                :hu-hu "Termékkatalógus-kategóriák kódjai, amelyekben a termék megjelenik."}
+  :label       {:en-gb "Product catalog category codes"
+                :hu-hu "Termékkatalógus-kategória kódok"}}
+
+ :product-categories
+ {:description {:en-gb "Categories the product is listed in."
+                :hu-hu "Kategóriák amelyekben a termék megjelenik."}
+  :label       {:en-gb "Product categories"
+                :hu-hu "Termékkategóriák"}}
+
+ :product-category-codes
+ {:description {:en-gb "Codes of categories the product is listed in."
+                :hu-hu "Kategóriák kódjai, amelyekben a termék megjelenik."}
+  :label       {:en-gb "Product category codes"
+                :hu-hu "Termékkategória kódok"}}}

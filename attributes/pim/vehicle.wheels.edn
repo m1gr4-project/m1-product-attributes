@@ -1,0 +1,72 @@
+
+{:pitch-circle-diameter
+ {:description {:en-gb "Pitch circle diameter of the product."
+                :hu-hu "A termék osztókör-átmérője."}
+  :label       {:en-gb "Pitch circle diameter"
+                :hu-hu "Osztókör-átmérő"}}
+
+ :rim-diameter
+ {:description {:en-gb "Rim diameter of the product."
+                :hu-hu "A termék keréktárcsa-átmérője."}
+  :label       {:en-gb "Rim diameter"
+                :hu-hu "Keréktárcsa-átmérő"}}
+
+ :rim-size
+ {:description {:en-gb "Rim size of the product."
+                :hu-hu "A termék keréktárcsamérete."}
+  :label       {:en-gb "Rim size"
+                :hu-hu "Keréktárcsaméret"}}
+
+ :tyre-diameter
+ {:description {:en-gb "Tyre diameter of the product."
+                :hu-hu "A termék gumiátmérője."}
+  :label       {:en-gb "Tyre width"
+                :hu-hu "Gumiátmérő"}}
+
+ :tyre-height
+ {:description {:en-gb "Tyre height of the product."
+                :hu-hu "A termék gumimagassága."}
+  :label       {:en-gb "Tyre height"
+                :hu-hu "Gumimagasság"}}
+
+ :tyre-size
+ {:description {:en-gb "Tyre size of the product."
+                :hu-hu "A termék gumimérete."}
+  :label       {:en-gb "Tyre size"
+                :hu-hu "Gumiméret"}}
+
+ :tyre-width
+ {:description {:en-gb "Tyre width of the product."
+                :hu-hu "A termék gumiszélessége."}
+  :label       {:en-gb "Tyre width"
+                :hu-hu "Gumiszélesség"}}
+
+ :wheel-diameter
+ {:description {:en-gb "Wheel diameter of the product."
+                :hu-hu "A termék kerékátmérője."}
+  :label       {:en-gb "Wheel diameter"
+                :hu-hu "Kerékátmérő"}}
+
+ :wheel-hub-dimensions
+ {:description {:en-gb "Wheel hub dimensions of the product."
+                :hu-hu "A termék kerékagy-mérete."}
+  :label       {:en-gb "Wheel hub dimensions"
+                :hu-hu "Kerékagy-méret"}}
+
+ :wheel-offset
+ {:description {:en-gb "Wheel offset of the product."
+                :hu-hu "A termék kerékbenyomási mélysége."}
+  :label       {:en-gb "Wheel offset"
+                :hu-hu "Benyomási mélység"}}
+
+ :wheel-size
+ {:description {:en-gb "Wheel size of the product."
+                :hu-hu "A termék kerékmérete."}
+  :label       {:en-gb "Wheel size"
+                :hu-hu "Kerékméret"}}
+
+ :wheel-width
+ {:description {:en-gb "Wheel width of the product."
+                :hu-hu "A termék kerékszélessége."}
+  :label       {:en-gb "Wheel width"
+                :hu-hu "Kerékszélesség"}}}

@@ -1,0 +1,6 @@
+
+{:starter-mechanism
+ {:description {:en-gb "Starter mechanism of the product."
+                :hu-hu "A termék indító mechanizmusa."}
+  :label       {:en-gb "Starter"
+                :hu-hu "Indító"}}}

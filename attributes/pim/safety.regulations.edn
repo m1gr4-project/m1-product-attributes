@@ -1,0 +1,48 @@
+
+ :eeg-category
+ {:description {:en-gb "Device category code (ElektroG/EEG) of the product."
+                :hu-hu "A termék eszközkategória kódja (ElektroG/EEG)."}
+  :label       {:en-gb "EEG category"
+                :hu-hu "EEG kategória"}}
+
+ :energy-efficiency-class
+ {:description {:en-gb "EU energy efficiency rating class of the product (A - G)."
+                :hu-hu "A termék EU energiahatékonysági besorolási osztálya (A - G)."}
+  :label       {:en-gb "Energy efficiency class"
+                :hu-hu "Energiahatékonysági osztály"}}
+
+ :energy-efficiency-symbol
+ {:description {:en-gb "EU energy efficiency rating symbol of the product (A - G)."
+                :hu-hu "A termék EU energiahatékonysági besorolási szimbóluma (A - G)."}
+  :label       {:en-gb "Energy efficiency symbol"
+                :hu-hu "Energiahatékonysági szimbólum"}}
+
+ :eprel-code
+ {:description {:en-gb "EPREL code (European Product Registry for Energy Labelling) of the product."
+                :hu-hu "A termék EPREL kódja (energiacímke-köteles termékek európai adatbázisa)."}
+  :label       {:en-gb "EPREL code"
+                :hu-hu "EPREL kód"}}
+
+ :ghs-label
+ {:description {:en-gb "GHS label of the product (Globally Harmonized System of Classification and Labelling of Chemicals)."
+                :hu-hu "A termék GHS címkéje (Vegyi Anyagok Osztályozásának és Címkézésének Globálisan Harmonizált Rendszere)."}
+  :label       {:en-gb "GHS label"
+                :hu-hu "GHS címke"}}
+
+ :hazard-statements
+ {:description {:en-gb "Hazard statements related to the product."
+                :hu-hu "A termékhez kapcsolódó veszélyességi mondatok."}
+  :label       {:en-gb "Hazard statements"
+                :hu-hu "Veszélyességi mondatok"}}
+
+ :hazard-statement-codes
+ {:description {:en-gb "Hazard statement codes related to the product."
+                :hu-hu "A termékhez kapcsolódó veszélyességi mondatok kódjai."}
+  :label       {:en-gb "Hazard statements codes"
+                :hu-hu "Veszélyességi mondatok kódjai"}}
+
+ :ip-protection-class
+ {:description {:en-gb "Ingress Protection (IP, IEC 60529) rating of the product."
+                :hu-hu "A termék IP (IEC 60529) besorolása."}
+  :label       {:en-gb "IP protection class"
+                :hu-hu "IP védelmi osztály"}}

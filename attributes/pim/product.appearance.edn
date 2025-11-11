@@ -1,0 +1,66 @@
+
+{:color
+ {:description {:en-gb "Color of the product."
+                :hu-hu "A termék színe."}
+  :label       {:en-gb "Color"
+                :hu-hu "Szín"}}
+
+ :color-or-surface-finishing
+ {:description {:en-gb "Color / surface finishing of the product."
+                :hu-hu "A termék színe / felületkezelése."}
+  :label       {:en-gb "Color / surface finishing"
+                :hu-hu "Szín / felületkezelés"}}
+
+ :color-primary
+ {:description {:en-gb "Primary color of the product."
+                :hu-hu "A termék elsődleges színe."}
+  :label       {:en-gb "Primary color"
+                :hu-hu "Elsődleges szín"}}
+
+ :color-secondary
+ {:description {:en-gb "Secondary color of the product."
+                :hu-hu "A termék másodlagos színe."}
+  :label       {:en-gb "Secondary color"
+                :hu-hu "Másodlagos szín"}}
+
+ :color-tertiary
+ {:description {:en-gb "Tertiary color of the product."
+                :hu-hu "A termék harmadlagos színe."}
+  :label       {:en-gb "Tertiary color"
+                :hu-hu "Harmadlagos szín"}}
+
+ :decor-pattern
+ {:description {:en-gb "Decorative pattern of the product."
+                :hu-hu "A termék dekoratív mintája."}
+  :label       {:en-gb "Decor pattern"
+                :hu-hu "Dekor minta"}}
+
+ :design-style
+ {:description {:en-gb "Overall design style or aesthetic theme of the product."
+                :hu-hu "A termék átfogó dizájnstílusa vagy esztétikai témája."}
+  :label       {:en-gb "Design style"
+                :hu-hu "Dizájn stílus"}}
+
+ :housing-color
+ {:description {:en-gb "Color of the product housing."
+                :hu-hu "A termék burkolatának színe."}
+  :label       {:en-gb "Housing color"
+                :hu-hu "Burkolat színe"}}
+
+ :housing-color-or-surface-finishing
+ {:description {:en-gb "Color / surface finishing of the product housing."
+                :hu-hu "A termék burkolatának színe / felületkezelése."}
+  :label       {:en-gb "Housing color / surface finishing"
+                :hu-hu "Burkolat színe / felületkezelése"}}
+
+ :housing-surface-finishing
+ {:description {:en-gb "Surface finishing of the product housing."
+                :hu-hu "A termék burkolatának felületkezelése."}
+  :label       {:en-gb "Housing surface finishing"
+                :hu-hu "Burkolat felületkezelése"}}
+
+ :surface-finishing
+ {:description {:en-gb "Surface finishing of the product."
+                :hu-hu "A termék felületkezelése."}
+  :label       {:en-gb "Surface finishing"
+                :hu-hu "Felületkezelés"}}}

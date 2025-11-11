@@ -1,0 +1,30 @@
+
+{:fuel-consumption
+ {:description {:en-gb "Fuel consumption rate of the product."
+                :hu-hu "A termék üzemanyagfogytásának mértéke."}
+  :label       {:en-gb "Fuel consumption"
+                :hu-hu "Üzemanyag fogyasztás"}}
+
+ :gas-consumption
+ {:description {:en-gb "Gas consumption rate of the product."
+                :hu-hu "A termék gázfogyasztásának mértéke."}
+  :label       {:en-gb "Gas consumption"
+                :hu-hu "Gázfogyasztás"}}
+
+ :gas-consumption-at-25c
+ {:description {:en-gb "Gas consumption rate of the product, measured at 25°C environmental temperature."
+                :hu-hu "A termék gázfogyasztásának mértéke, 25°C-os környezeti hőmérséklet esetén mérve."}
+  :label       {:en-gb "Gas consumption (at 25°C)"
+                :hu-hu "Gázfogyasztás (25°C-on)"}}
+
+ :idle-current-consumption
+ {:description {:en-gb "Idle current consumption of the product."
+                :hu-hu "A termék nyugalmi áramfelvétele."}
+  :label       {:en-gb "Idle current"
+                :hu-hu "Nyugalmi áramfelvétel"}}
+
+ :power-consumption-at-25c
+ {:description {:en-gb "Power consumption rate of the product, measured at 25°C environmental temperature."
+                :hu-hu "A termék energiafogyasztásának mértéke, 25°C-os környezeti hőmérséklet esetén mérve."}
+  :label       {:en-gb "Power consumption (at 25°C)"
+                :hu-hu "Energiafogyasztás (25°C-on)"}}}

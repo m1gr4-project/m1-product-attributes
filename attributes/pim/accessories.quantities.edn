@@ -1,0 +1,12 @@
+
+{:number-of-adapter-plates
+ {:description {:en-gb "Number of adapter plates included with the product."
+                :hu-hu "A termékhez mellékelt adapterlemezek száma."}
+  :label       {:en-gb "Number of adapter plates"
+                :hu-hu "Adapter lemezek száma"}}
+
+ :number-of-securing-straps
+ {:description {:en-gb "Number of securing straps included with the product."
+                :hu-hu "A termékhez mellékelt rögzítőhevederek száma."}
+  :label       {:en-gb "Number of straps"
+                :hu-hu "Hevederek száma"}}}

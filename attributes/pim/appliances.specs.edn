@@ -1,0 +1,12 @@
+
+{:net-capacity-freezer-compartment
+ {:description {:en-gb "Freezer compartment net capacity of the product."
+                :hu-hu "A termék fagyasztórekeszének hasznos térfogata."}
+  :label       {:en-gb "Freezer compartment net capacity"
+                :hu-hu "Fagyasztórekesz hasznos térfogat"}}
+
+ :net-capacity-wo-freezer-compartment
+ {:description {:en-gb "Net capacity excluding the freezer compartment."
+                :hu-hu "A termék hasznos térfogata a fagyasztórekesz nélkül."}
+  :label       {:en-gb "Net capacity (without freezer compartment)"
+                :hu-hu "Hasznos térfogat (fagyasztórekesz nélkül)"}}}

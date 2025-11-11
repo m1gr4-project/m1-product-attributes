@@ -1,0 +1,12 @@
+
+{:created-at
+ {:description {:en-gb "Timestamp indicating when the product entry was created."
+                :hu-hu "A termék bejegyzésének létrehozását jelző időbélyegző."}
+  :label       {:en-gb "Created at"
+                :hu-hu "Létrehozva"}}
+
+ :updated-at
+ {:description {:en-gb "Timestamp indicating when the product entry was last updated."
+                :hu-hu "A termék bejegyzésének utolsó módosítását jelző időbélyegző."}
+  :label       {:en-gb "Updated at"
+                :hu-hu "Módosítva"}}}

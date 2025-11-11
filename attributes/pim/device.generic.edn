@@ -1,0 +1,18 @@
+
+{:device-features
+ {:description {:en-gb "Key device features and capabilities of the product."
+                :hu-hu "A termék főbb eszközfunkciói és képességei."}
+  :label       {:en-gb "Device features"
+                :hu-hu "Eszköz tulajdonságok"}}
+
+ :navigation-features
+ {:description {:en-gb "Key navigation features and capabilities of the product."
+                :hu-hu "A termék főbb navigációs funkciói és képességei."}
+  :label       {:en-gb "Navigation features"
+                :hu-hu "Navigációs tulajdonságok"}}
+
+ :multimedia-features
+ {:description {:en-gb "Key multimedia features and capabilities of the product."
+                :hu-hu "A termék főbb multimédia funkciói és képességei."}
+  :label       {:en-gb "Multimedia features"
+                :hu-hu "Multimédia tulajdonságok"}}}

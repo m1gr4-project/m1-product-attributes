@@ -1,0 +1,72 @@
+
+; :displayed-on-product-list? (boolean)
+; Indicates whether the attribute is displayed on product cards when listed (e.g. as a search result).
+;
+; :displayed-on-product-page? (boolean)
+; Indicates whether the attribute is displayed on product pages (within product details section).
+; If false the attribute can be still displayed if handled individually!
+;
+; displayed-when-logged-out? (boolean)
+; Indicates whether the attribute is displayed if the customer is not logged in.
+;
+; :excluded-from-exports? (boolean)
+; Indicates whether the attribute should be excluded from product export operations.
+;
+; :excluded-from-feeds? (boolean)
+; Indicates whether the attribute should be excluded from product feed operations.
+;
+; :show-description? (boolean)
+; Indicates whether a short description is displayed to help understanding the attribute.
+;
+; :use-as-filter? (boolean)
+; Indicates whether the attribute can be used as a filter option on product list pages (e.g. search results page).
+;
+; :use-in-comparison? (boolean)
+; Indicates whether the attribute can be used to compare multiple products based on their related values.
+;
+; :description (multilingual map)
+; A short description helping to understand the attribute.
+;
+; :label (multilingual map)
+; A short label showing the attribute's name.
+;
+; :prefix (multilingual map)
+; A universal value prepended to each instance of the attribute's value.
+;
+; :suffix (multilingual map)
+; A universal value appended to each instance of the attribute's value.
+
+
+
+; Default values for internal attributes
+ :internal-attribute-defaults
+ {:displayed-on-product-list? false
+  :displayed-on-product-page? false
+  :displayed-when-logged-out? false
+  :excluded-from-exports?     true
+  :excluded-from-feeds?       true
+  :show-description?          false
+  :use-as-filter?             false
+  :use-in-comparison?         false
+  :value-type                 :text
+  :description {:en-gb ""}
+  :label       {:en-gb ""}
+  :prefix      {:en-gb ""}
+  :suffix      {:en-gb ""}}
+
+
+
+; Default values for PIM attributes
+ :pim-attribute-defaults
+ {:displayed-on-product-list? false
+  :displayed-on-product-page? true
+  :displayed-when-logged-out? true
+  :excluded-from-feeds?       false
+  :show-description?          false
+  :use-as-filter?             true
+  :use-in-comparison?         true
+  :value-type                 :text
+  :description {:en-gb ""}
+  :label       {:en-gb ""}
+  :prefix      {:en-gb ""}
+  :suffix      {:en-gb ""}}

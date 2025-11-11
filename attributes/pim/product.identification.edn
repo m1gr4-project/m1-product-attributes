@@ -1,0 +1,28 @@
+
+{:article-number-at-manufacturer
+ {:excluded-from-feeds? true
+  :description {:en-gb "Manufacturer's article number used to identify the product."
+                :hu-hu "A gyártó cikkszáma a termék azonosítására."}
+  :label       {:en-gb "Article number at manufacturer"
+                :hu-hu "Gyártói cikkszám"}}
+
+ :article-number-at-supplier
+ {:excluded-from-feeds? true
+  :description {:en-gb "Supplier's article number used to identify the product."
+                :hu-hu "A beszállító cikkszáma a termék azonosítására."}
+  :label       {:en-gb "Article number at supplier"
+                :hu-hu "Beszállítói cikkszám"}}
+
+ :ean-barcode
+ {:excluded-from-feeds? true
+  :description {:en-gb "EAN barcode of the product (European Article Number)."
+                :hu-hu "A termék EAN vonalkódja (Európai Cikkszám)."}
+  :label       {:en-gb "EAN barcode"
+                :hu-hu "EAN vonalkód"}}
+
+ :gtin-number
+ {:excluded-from-feeds? true
+  :description {:en-gb "GTIN number of the product (Global Trade Item Number)."
+                :hu-hu "A termék GTIN száma (Globális Kereskedelmi Cikkszám)."}
+  :label       {:en-gb "GTIN number"
+                :hu-hu "GTIN cikkszám"}}}

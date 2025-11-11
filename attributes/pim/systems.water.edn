@@ -1,0 +1,54 @@
+
+{:basin-depth
+ {:description {:en-gb "Basin depth of the product."
+                :hu-hu "Termékek medencemélysége."}
+  :label       {:en-gb "Basin depth"
+                :hu-hu "Medencemélység"}}
+
+ :drinking-water-safe?
+ {:description {:en-gb "Indicates whether a product is suitable for drinking water (potable water)."
+                :hu-hu "Jelzi, hogy a termék ivóvízhez (tiszta vízhez) alkalmas-e."}
+  :label       {:en-gb "Drinking water safe"
+                :hu-hu "Ivóvízhez alkalmas"}}
+
+ :flow-rate
+ {:description {:en-gb "Flow rate specification of the product."
+                :hu-hu "A termékre jellemző áramlási sebesség."}
+  :label       {:en-gb "Flow rate"
+                :hu-hu "Áramlási sebesség"}}
+
+ :flush-system
+ {:description {:en-gb "Flush system of the product."
+                :hu-hu "A termék öblítési rendszere."}
+  :label       {:en-gb "Flush system"
+                :hu-hu "Öblítési rendszer"}}
+
+ :pumping-height
+ {:description {:en-gb "Maximum vertical pumping height of the product."
+                :hu-hu "A szivattyú maximális függőleges szállítómagassága."}
+  :label       {:en-gb "Pumping height"
+                :hu-hu "Szállítómagasság"}}
+
+ :tank-capacity-flush-water
+ {:description {:en-gb "Capacity of the flush water tank included with the product."
+                :hu-hu "A termék öblítővíztartályának kapacitása."}
+  :label       {:en-gb "Flush water tank capacity"
+                :hu-hu "Öblítővíztartály-kapacitás"}}
+
+ :tank-capacity-fresh-water
+ {:description {:en-gb "Capacity of the fresh water tank included with the product."
+                :hu-hu "A termék frissvíztartályának kapacitása."}
+  :label       {:en-gb "Fresh water tank capacity"
+                :hu-hu "Frissvíztartály-kapacitás"}}
+
+ :tank-capacity-grey-water
+ {:description {:en-gb "Capacity of the grey water tank included with the product."
+                :hu-hu "A termék szürkevíztartályának kapacitása."}
+  :label       {:en-gb "Grey water tank capacity"
+                :hu-hu "Szürkevíztartály-kapacitás"}}
+
+ :tank-capacity-waste-water
+ {:description {:en-gb "Capacity of the waste water tank included with the product."
+                :hu-hu "A termék szennyvíztartályának kapacitása."}
+  :label       {:en-gb "Waste water tank capacity"
+                :hu-hu "Szennyvíztartály-kapacitás"}}}

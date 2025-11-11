@@ -1,0 +1,24 @@
+
+{:dish-elevation-angle
+ {:description {:en-gb "Elevation or tilt angle range of the satellite dish."
+                :hu-hu "A műholdas antenna dőlésszög-tartománya."}
+  :label       {:en-gb "Satellite dish tilt angle range"
+                :hu-hu "Műholdas antenna dőlésszög-tartomány"}}
+
+ :lnb-type
+ {:description {:en-gb "Type of LNB (Low Noise Block Converter) included with the product."
+                :hu-hu "A termékhez mellékelt LNB (Alacsony zajszintű blokk-konverter) típusa."}
+  :label       {:en-gb "LNB type"
+                :hu-hu "LNB típus"}}
+
+ :programmed-satellite-positions
+ {:description {:en-gb "Pre-programmed satellite positions in the product."
+                :hu-hu "A termékbe előre beprogramozott műholdpozíciók."}
+  :label       {:en-gb "Programmed satellites"
+                :hu-hu "Programozott műholdak"}}
+
+ :signal-search-angle
+ {:description {:en-gb "Horizontal angular range (azimuth) through which the product can scan for satellite signals."
+                :hu-hu "A termék műholdjel-keresési vízszintes szögtartománya (azimut)."}
+  :label       {:en-gb "Satellite signal search angle"
+                :hu-hu "Műholdjel-keresési szög"}}}

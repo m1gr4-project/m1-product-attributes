@@ -1,0 +1,6 @@
+
+{:light-sensitivity
+ {:description {:en-gb "Minimum light level required for the product to function properly."
+                :hu-hu "Minimális fényszint, amely szükséges a termék megfelelő működéséhez."}
+  :label       {:en-gb "Light sensitivity"
+                :hu-hu "Fényérzékenység"}}}

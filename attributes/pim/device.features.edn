@@ -1,0 +1,36 @@
+
+{:with-bluetooth?
+ {:description {:en-gb "Indicates whether the product has built-in Bluetooth wireless connectivity capability."
+                :hu-hu "Jelzi, hogy a termék rendelkezik-e beépített Bluetooth vezeték nélküli csatlakozási képességgel."}
+  :label       {:en-gb "Bluetooth"
+                :hu-hu "Bluetooth"}}
+
+ :with-dab-tuner?
+ {:description {:en-gb "Indicates whether the product has built-in DAB tuner connectivity capability."
+                :hu-hu "Jelzi, hogy a termék rendelkezik-e beépített DAB tuner csatlakozási képességgel."}
+  :label       {:en-gb "DAB tuner"
+                :hu-hu "DAB tuner"}}
+
+ :with-integrated-navigation?
+ {:description {:en-gb "Indicates whether the product has integrated navigation functionality."
+                :hu-hu "Jelzi, hogy a termék rendelkezik-e integrált navigáció funkcióval."}
+  :label       {:en-gb "Integrated navigation"
+                :hu-hu "Integrált navigáció"}}
+
+ :with-mains-changeover?
+ {:description {:en-gb "Indicates whether the product has automatic mains changeover or power switching capability."
+                :hu-hu "Jelzi, hogy a termék rendelkezik-e automatikus hálózati átkapcsolással vagy áramkapcsolási képességgel."}
+  :label       {:en-gb "With mains changeover"
+                :hu-hu "Hálózati átkapcsolással"}}
+
+ :with-switch?
+ {:description {:en-gb "Indicates whether the product has a switch."
+                :hu-hu "Jelzi, hogy a termék rendelkezik-e kapcsolóval."}
+  :label       {:en-gb "With switch"
+                :hu-hu "Kapcsolóval"}}
+
+ :with-wifi?
+ {:description {:en-gb "Indicates whether the product has built-in WIFI wireless connectivity capability."
+                :hu-hu "Jelzi, hogy a termék rendelkezik-e beépített WIFI vezeték nélküli kapcsolati képességgel."}
+  :label       {:en-gb "WIFI"
+                :hu-hu "WIFI"}}}

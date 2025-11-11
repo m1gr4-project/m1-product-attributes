@@ -1,0 +1,18 @@
+
+{:brand-logos
+ {:description {:en-gb "URLs / IDs to the product's brand logo assets."
+                :hu-hu "A termék márkalogóinak URL címei / azonosítói."}
+  :label       {:en-gb "Brand logos"
+                :hu-hu "Márkalogók"}}
+
+ :brand-name
+ {:description {:en-gb "Brand name of the product."
+                :hu-hu "A termék márkaneve."}
+  :label       {:en-gb "Brand name"
+                :hu-hu "Márkanév"}}
+
+ :brand-symbols
+ {:description {:en-gb "URLs / IDs to the product's brand symbol assets."
+                :hu-hu "A termék márkaszimbólumainak URL címei / azonosítói."}
+  :label       {:en-gb "Brand symbols"
+                :hu-hu "Márkaszimbólumok"}}}

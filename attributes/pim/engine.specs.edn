@@ -1,0 +1,12 @@
+
+{:engine-displacement
+ {:description {:en-gb "Engine displacement of the product."
+                :hu-hu "A termék hengerűrtartalma."}
+  :label       {:en-gb "Engine displacement"
+                :hu-hu "Hengerűrtartalom"}}
+
+ :fuel-consumption
+ {:description {:en-gb "Fuel consumption rate of the product."
+                :hu-hu "A termék üzemanyagfogytásának mértéke."}
+  :label       {:en-gb "Fuel consumption"
+                :hu-hu "Üzemanyag fogyasztás"}}}

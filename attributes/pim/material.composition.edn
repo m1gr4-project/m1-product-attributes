@@ -1,0 +1,66 @@
+
+{:ceiling-material
+ {:description {:en-gb "Ceiling material of the product."
+                :hu-hu "A termék mennyezetének anyaga."}
+  :label       {:en-gb "Ceiling material"
+                :hu-hu "Mennyezet anyaga"}}
+
+ :end-caps-material
+ {:description {:en-gb "End cap material / color of the product."
+                :hu-hu "A termék végzáró kupakjainak anyaga / színe."}
+  :label       {:en-gb "End cap(s)"
+                :hu-hu "Végzáró kupak(ok)"}}
+
+ :filling-material
+ {:description {:en-gb "Filling material of the product."
+                :hu-hu "A termék töltőanyaga."}
+  :label       {:en-gb "Filling material"
+                :hu-hu "Töltőanyag"}}
+
+ :floor-material
+ {:description {:en-gb "Floor material of the product."
+                :hu-hu "A termék padlójának anyaga."}
+  :label       {:en-gb "Floor material"
+                :hu-hu "Padló anyaga"}}
+
+ :frame-material
+ {:description {:en-gb "Frame material of the product."
+                :hu-hu "A termék vázának anyaga."}
+  :label       {:en-gb "Frame material"
+                :hu-hu "Váz anyaga"}}
+
+ :inner-surface-material
+ {:description {:en-gb "Inner surface material of the product."
+                :hu-hu "A termék belső felületének anyaga."}
+  :label       {:en-gb "Inner surface material"
+                :hu-hu "Belső felület anyaga"}}
+
+ :material
+ {:description {:en-gb "Material composition of the product."
+                :hu-hu "A termék anyagösszetétele."}
+  :label       {:en-gb "Material"
+                :hu-hu "Anyag"}}
+
+ :outer-surface-material
+ {:description {:en-gb "Outer surface material of the product."
+                :hu-hu "A termék külső felületének anyaga."}
+  :label       {:en-gb "Outer surface material"
+                :hu-hu "Külső felület anyaga"}}
+
+ :roof-material
+ {:description {:en-gb "Roof material of the product."
+                :hu-hu "A termék tetőjének anyaga."}
+  :label       {:en-gb "Roof material"
+                :hu-hu "Tető anyaga"}}
+
+ :textile-material
+ {:description {:en-gb "Textile material of the product."
+                :hu-hu "A termék szövetének anyaga."}
+  :label       {:en-gb "Textile material"
+                :hu-hu "Szövet anyaga"}}
+
+ :wall-material
+ {:description {:en-gb "Wall material of the product."
+                :hu-hu "A termék falának anyaga."}
+  :label       {:en-gb "Wall material"
+                :hu-hu "Fal anyaga"}}}

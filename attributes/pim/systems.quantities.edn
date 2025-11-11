@@ -1,0 +1,12 @@
+
+{:number-of-connector-pins
+ {:description {:en-gb "Number of pins in the electrical connector(s) of the product."
+                :hu-hu "A termék elektromos csatlakozójának / csatlakozóinak érintkezőszáma."}
+  :label       {:en-gb "Number of connector pins"
+                :hu-hu "Érintkezők száma"}}
+
+ :number-of-gas-burners
+ {:description {:en-gb "Number of gas burners / flames of the product."
+                :hu-hu "A termék gázégőinek / lángjainak száma."}
+  :label       {:en-gb "Number of gas burners"
+                :hu-hu "Gázégők száma"}}}

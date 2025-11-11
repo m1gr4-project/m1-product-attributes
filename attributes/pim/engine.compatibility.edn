@@ -1,0 +1,12 @@
+
+{:compatible-boat-weight-max
+ {:description {:en-gb "Maximum boat weight the product is compatible with."
+                :hu-hu "Maximális csónaksúly, amellyel a termék kompatibilis."}
+  :label       {:en-gb "Max. boat weight"
+                :hu-hu "Max. csónaksúly"}}
+
+ :compatible-boat-weight-min
+ {:description {:en-gb "Minimum boat weight the product is compatible with."
+                :hu-hu "Minimális csónaksúly, amellyel a termék kompatibilis."}
+  :label       {:en-gb "Min. boat weight"
+                :hu-hu "Min. csónaksúly"}}}

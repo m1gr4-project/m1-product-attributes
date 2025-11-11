@@ -1,0 +1,6 @@
+
+{:tank-capacity
+ {:description {:en-gb "Tank capacity of the product."
+                :hu-hu "A termék tartálykapacitása."}
+  :label       {:en-gb "Tank capacity"
+                :hu-hu "Tartálykapacitás"}}}

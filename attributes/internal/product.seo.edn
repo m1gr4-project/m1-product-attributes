@@ -1,0 +1,6 @@
+
+{:seo-keywords
+ {:description {:en-gb "SEO keywords related to the product."
+                :hu-hu "A termékkel kapcsolatos keresőmotor kulcsszavak."}
+  :label       {:en-gb "SEO keywords"
+                :hu-hu "Keresőmotor kulcsszavak"}}}

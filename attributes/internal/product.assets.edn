@@ -1,0 +1,24 @@
+
+{:asset-export-disabled?
+ {:description {:en-gb "Indicates whether product assets should be excluded from export operations."
+                :hu-hu "Jelzi, hogy a termék forrásanyagait ki kell-e hagyni az export műveletekből."}
+  :label       {:en-gb "Asset export disabled"
+                :hu-hu "Forrásanyag exportálás letiltva"}}
+
+ :document-assets
+ {:description {:en-gb "URLs / IDs to the product's documentation assets."
+                :hu-hu "A termék dokumentációs fájljainak URL címei / azonosítói."}
+  :label       {:en-gb "Documentation assets"
+                :hu-hu "Dokumentumhivatkozások"}}
+
+ :image-assets
+ {:description {:en-gb "URLs / IDs to the product's image assets."
+                :hu-hu "A termék képeinek URL címei / azonosítói."}
+  :label       {:en-gb "Image assets"
+                :hu-hu "Képhivatkozások"}}
+
+ :video-assets
+ {:description {:en-gb "URLs / IDs to the product's video assets."
+                :hu-hu "A termék videóinak URL címei / azonosítói."}
+  :label       {:en-gb "Video assets"
+                :hu-hu "Videóhivatkozások"}}}

@@ -1,0 +1,24 @@
+
+{:compatible-platforms
+ {:description {:en-gb "Platforms the product is compatible with."
+                :hu-hu "Platformok, amelyekkel a termék kompatibilis."}
+  :label       {:en-gb "Compatible platforms"
+                :hu-hu "Kompatibilis platformok"}}
+
+ :compatible-screen-size-max
+ {:description {:en-gb "Maximum screen size the product is compatible with."
+                :hu-hu "Maximális képernyőméret, amellyel a termék kompatibilis."}
+  :label       {:en-gb "Max. screen size"
+                :hu-hu "Max. képernyőméret"}}
+
+ :compatible-screen-size-min
+ {:description {:en-gb "Minimum screen size the product is compatible with."
+                :hu-hu "Minimális képernyőméret, amellyel a termék kompatibilis."}
+  :label       {:en-gb "Min. screen size"
+                :hu-hu "Min. képernyőméret"}}
+
+ :compatible-technologies
+ {:description {:en-gb "Technologies the product is compatible with."
+                :hu-hu "Technológiák, amelyekkel a termék kompatibilis."}
+  :label       {:en-gb "Compatible technologies"
+                :hu-hu "Kompatibilis technológiák"}}}

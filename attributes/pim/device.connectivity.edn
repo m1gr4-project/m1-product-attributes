@@ -1,0 +1,6 @@
+
+{:media-connections
+ {:description {:en-gb "Available media connectivity options of the product."
+                :hu-hu "A termék elérhető média csatlakozási lehetőségei."}
+  :label       {:en-gb "Media connections"
+                :hu-hu "Média csatlakozások"}}}

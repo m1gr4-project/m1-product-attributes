@@ -1,0 +1,6 @@
+
+{:suitable-for-e-bikes?
+ {:description {:en-gb "Indicates whether the product is suitable for using with e-bikes."
+                :hu-hu "Jelzi, hogy a termék alkalmas-e elektromos kerékpárral való használatra."}
+  :label       {:en-gb "For E-bikes"
+                :hu-hu "Elektromos kerékpárokhoz"}}}

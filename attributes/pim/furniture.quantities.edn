@@ -1,0 +1,12 @@
+
+{:number-of-beds
+ {:description {:en-gb "Number of beds of the product."
+                :hu-hu "A termék fekvőhelyeinek száma."}
+  :label       {:en-gb "Number of beds"
+                :hu-hu "Fekvőhelyek száma"}}
+
+ :number-of-seats
+ {:description {:en-gb "Number of seats of the product."
+                :hu-hu "A termék ülőhelyeinek száma."}
+  :label       {:en-gb "Number of seats"
+                :hu-hu "Ülőhelyek száma"}}}

@@ -1,0 +1,12 @@
+
+{:ignition-system
+ {:description {:en-gb "Type of gas ignition system used in the product."
+                :hu-hu "A termékben használt gyújtórendszer típusa."}
+  :label       {:en-gb "Ignition system"
+                :hu-hu "Gyújtórendszer"}}
+
+ :with-ignition-safety?
+ {:description {:en-gb "Indicates whether the product has an ignition safety device or flame failure device."
+                :hu-hu "Jelzi, hogy a termék rendelkezik-e gyújtásbiztosítási eszközzel vagy lángkimaradás-védelemmel."}
+  :label       {:en-gb "With ignition safety"
+                :hu-hu "Gyújtásbiztosítással"}}}

@@ -1,0 +1,24 @@
+
+{:fabric-color
+ {:description {:en-gb "Fabric / canvas color of the product."
+                :hu-hu "A termék szövetének / vásznának színe."}
+  :label       {:en-gb "Fabric color"
+                :hu-hu "Szövetszín"}}
+
+ :fabric-upf
+ {:description {:en-gb "Fabric / canvas UV protection rating (UPF factor) of the product."
+                :hu-hu "A termék szövetének / vásznának UV-védelmi besorolása (UPF faktor)."}
+  :label       {:en-gb "Fabric UV protection rating"
+                :hu-hu "Szövet UV-védelem besorálása"}}
+
+ :fabric-water-column-rating
+ {:description {:en-gb "Fabric / canvas waterproofness rating (water column rating) of the product."
+                :hu-hu "A termék szövetének / vásznának vízállósági besorolása (vízoszlop besorolás)."}
+  :label       {:en-gb "Fabric waterproofness rating"
+                :hu-hu "Szövet vízállósági besorálása"}}
+
+ :fabric-weight
+ {:description {:en-gb "Fabric / canvas weight of the product."
+                :hu-hu "A termék szövetének / vásznának anyagsúlya."}
+  :label       {:en-gb "Fabric weight"
+                :hu-hu "Szövetsúly"}}}

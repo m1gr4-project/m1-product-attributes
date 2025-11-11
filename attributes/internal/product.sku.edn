@@ -1,0 +1,18 @@
+
+{:sku
+ {:description {:en-gb "SKU (Stock Keeping Unit) ID of the product."
+                :hu-hu "A termék készletnyilvántartási cikkszáma."}
+  :label       {:en-gb "SKU"
+                :hu-hu "Cikkszám"}}
+
+ :sku-cross-sell-products
+ {:description {:en-gb "SKUs of other products related to the product."
+                :hu-hu "A termékhez kapcsolódó egyéb termékek cikkszámai."}
+  :label       {:en-gb "Cross sell SKUs"
+                :hu-hu "Keresztértékesítési cikkszámok"}}
+
+ :sku-base-product
+ {:description {:en-gb "SKU of the base product related to the variants of the product."
+                :hu-hu "A termék változataihoz kapcsolódó alaptermék cikkszáma."}
+  :label       {:en-gb "Base product SKU"
+                :hu-hu "Alaptermék cikkszáma"}}}

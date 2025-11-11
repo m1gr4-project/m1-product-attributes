@@ -1,0 +1,18 @@
+
+{:number-of-modules
+ {:description {:en-gb "Number of modules of the product."
+                :hu-hu "A termék moduljainak száma."}
+  :label       {:en-gb "Number of modules"
+                :hu-hu "Modulok száma"}}
+
+ :number-of-pages
+ {:description {:en-gb "Number of pages of the product."
+                :hu-hu "A termék oldalainak száma."}
+  :label       {:en-gb "Number of pages"
+                :hu-hu "Oldalak száma"}}
+
+ :number-of-persons
+ {:description {:en-gb "Number of persons the product can accommodate."
+                :hu-hu "A termék használatához kapcsolódó személyek száma."}
+  :label       {:en-gb "Number of persons"
+                :hu-hu "Személyek száma"}}}

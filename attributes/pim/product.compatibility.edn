@@ -1,0 +1,18 @@
+
+{:compatibility
+ {:description {:en-gb "Compatibility of the product."
+                :hu-hu "A termék kompatibilitása."}
+  :label       {:en-gb "Compatibility"
+                :hu-hu "Kompatibilitás"}}
+
+ :compatible-products
+ {:description {:en-gb "Other products the product is compatible with."
+                :hu-hu "Egyéb termékek, amelyekkel a termék kompatibilis."}
+  :label       {:en-gb "Compatible products"
+                :hu-hu "Kompatibilis termékek"}}
+
+ :compatible-types
+ {:description {:en-gb "Types the product is compatible with."
+                :hu-hu "Típusok, amelyekkel a termék kompatibilis."}
+  :label       {:en-gb "Compatible types"
+                :hu-hu "Kompatibilis típusok"}}}

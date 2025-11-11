@@ -1,0 +1,6 @@
+
+{:number-of-mounting-holes
+ {:description {:en-gb "Number of mounting holes required for installing the product."
+                :hu-hu "A termék felszereléséhez szükséges furatok száma."}
+  :label       {:en-gb "Number of mounting holes"
+                :hu-hu "Szerelési furatok száma"}}}

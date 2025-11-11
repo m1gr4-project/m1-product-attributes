@@ -1,0 +1,78 @@
+
+{:depth-under-floor
+ {:description {:en-gb "Depth the product extends under the floor surface when installed."
+                :hu-hu "A termék felszerelés utáni mélysége a padlófelület alatt."}
+  :label       {:en-gb "Depth under floor"
+                :hu-hu "Padló alatto mélység"}}
+
+ :height-over-roof
+ {:description {:en-gb "Height the product extends above the roof surface when installed."
+                :hu-hu "A termék felszerelés utáni magassága a tetőfelület felett."}
+  :label       {:en-gb "Height over roof"
+                :hu-hu "Tető feletti magasság"}}
+
+ :installation-depth
+ {:description {:en-gb "Longitudinal space required for installing the product."
+                :hu-hu "A termék telepítéséhez szükséges hosszanti tér."}
+  :label       {:en-gb "Installation depth"
+                :hu-hu "Beépítési mélység"}}
+
+ :installation-height
+ {:description {:en-gb "Vertical space required for installing the product."
+                :hu-hu "A termék telepítéséhez szükséges függőleges tér."}
+  :label       {:en-gb "Installation height"
+                :hu-hu "Beépítési magasság"}}
+
+ :installation-width
+ {:description {:en-gb "Horizontal space required for installing the product."
+                :hu-hu "A termék telepítéséhez szükséges vízszintes tér."}
+  :label       {:en-gb "Installation width"
+                :hu-hu "Beépítési szélesség"}}
+
+ :mounting-distance-from-ceiling
+ {:description {:en-gb "Mounting / installation distance (from ceiling) of the product."
+                :hu-hu "A termék elhelyezésének / rögzítésének mennyezettől való távolsága. "}
+  :label       {:en-gb "Distance (from ceiling)"
+                :hu-hu "Távolság (mennyezettől)"}}
+
+ :mounting-distance-from-floor
+ {:description {:en-gb "Mounting / installation distance (from floor) of the product."
+                :hu-hu "A termék elhelyezésének / rögzítésének padlótól való távolsága. "}
+  :label       {:en-gb "Distance (from floor)"
+                :hu-hu "Távolság (padlótól)"}}
+
+ :mounting-distance-from-wall
+ {:description {:en-gb "Mounting / installation distance (from wall) of the product."
+                :hu-hu "A termék elhelyezésének / rögzítésének faltól való távolsága. "}
+  :label       {:en-gb "Distance (from wall)"
+                :hu-hu "Távolság (faltól)"}}
+
+ :mounting-height
+ {:description {:en-gb "Compatible mounting height for installing the product."
+                :hu-hu "Kompatibilis elhelyezési / rögzítési magasság a termék felszereléséhez."}
+  :label       {:en-gb "Mounting height"
+                :hu-hu "Rögzítési magasság"}}
+
+ :mounting-hole-diameter
+ {:description {:en-gb "Mounting hole diameter of the product."
+                :hu-hu "A termék szerelési furat átmérője."}
+  :label       {:en-gb "Mounting hole diameter"
+                :hu-hu "Szerelési furat átmérő"}}
+
+ :mounting-orientation
+ {:description {:en-gb "Compatible mounting orientation of the product."
+                :hu-hu "Kompatibilis elhelyezési / rögzítési mód a termék felszereléséhez."}
+  :label       {:en-gb "Mounting orientation"
+                :hu-hu "Elhelyezés / rögzítés módja"}}
+
+ :nominal-cutout-a
+ {:description {:en-gb "Primary nominal cutout dimension required for installing / mounting the product."
+                :hu-hu "A termék felszereléséhez / beépítéséhez szükséges elsődleges kivágási méret."}
+  :label       {:en-gb "Cutout dimension (A)"
+                :hu-hu "Kivágási méret (A)"}}
+
+ :nominal-cutout-b
+ {:description {:en-gb "Secondary nominal cutout dimension required for installing / mounting the product."
+                :hu-hu "A termék felszereléséhez / beépítéséhez szükséges másodlagos kivágási méret."}
+  :label       {:en-gb "Cutout dimension (B)"
+                :hu-hu "Kivágási méret (B)"}}}
