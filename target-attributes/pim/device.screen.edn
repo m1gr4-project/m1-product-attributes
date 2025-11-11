@@ -27,4 +27,10 @@
  {:description {:en-gb "Display screen maximum viewing angle of the product."
                 :hu-hu "A termék kijelzőjének maximális betekintési szöge."}
   :label       {:en-gb "Viewing angle"
-                :hu-hu "Betekintési szög"}}}
+                :hu-hu "Betekintési szög"}}
+
+ :viewing-angle-dvh
+ {:description {:en-gb "Display screen maximum viewing angle of the product (Diagonal, Vertical, Horizontal)."
+                :hu-hu "A termék kijelzőjének maximális betekintési szöge (Átlós, Függőleges, Vízszintes)."}
+  :label       {:en-gb "Viewing angle (D, V, H)"
+                :hu-hu "Betekintési szög (Átl., Függ., Vízsz.)"}}}

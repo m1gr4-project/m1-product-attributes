@@ -1,0 +1,24 @@
+
+{:number-of-adjustment-positions
+ {:description {:en-gb "Number of adjustment positions of the product."
+                :hu-hu "A termék beállítható pozícióinak száma."}
+  :label       {:en-gb "Number of adjustment positions"
+                :hu-hu "Beállítható pozíciók száma"}}
+
+ :number-of-levels
+ {:description {:en-gb "Number of levels of the product."
+                :hu-hu "A termék szintjeinek száma."}
+  :label       {:en-gb "Number of levels"
+                :hu-hu "Szintek száma"}}
+
+ :number-of-pivot-points
+ {:description {:en-gb "Number of pivot points of the product."
+                :hu-hu "A termék forgáspontjainak száma."}
+  :label       {:en-gb "Number of pivot points"
+                :hu-hu "Forgáspontok száma"}}
+
+ :number-of-steps
+ {:description {:en-gb "Number of steps of the product."
+                :hu-hu "A termék fokainak száma."}
+  :label       {:en-gb "Number of steps"
+                :hu-hu "Fokok száma"}}}

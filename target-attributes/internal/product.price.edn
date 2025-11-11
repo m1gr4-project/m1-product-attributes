@@ -17,6 +17,24 @@
   :label       {:en-gb "Retail price (USD)"
                 :hu-hu "Kiskereskedelmi ár (USD)"}}
 
+ :unit-price-CHF
+ {:description {:en-gb "Unit price of the product (CHF)."
+                :hu-hu "A termék egységára (CHF)."}
+  :label       {:en-gb "Unit price (CHF)"
+                :hu-hu "Egységár (CHF)"}}
+
+ :unit-price-EUR
+ {:description {:en-gb "Unit price of the product (EUR)."
+                :hu-hu "A termék egységára (EUR)."}
+  :label       {:en-gb "Unit price (EUR)"
+                :hu-hu "Egységár (EUR)"}}
+
+ :unit-price-USD
+ {:description {:en-gb "Unit price of the product (USD)."
+                :hu-hu "A termék egységára (USD)."}
+  :label       {:en-gb "Unit price (USD)"
+                :hu-hu "Egységár (USD)"}}
+
  :wholesale-price-CHF
  {:description {:en-gb "Wholesale price of the product (CHF)."
                 :hu-hu "A termék nagykereskedelmi ára (CHF)."}

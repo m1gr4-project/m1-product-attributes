@@ -27,4 +27,10 @@
  {:description {:en-gb "Codes of categories the product is listed in."
                 :hu-hu "Kategóriák kódjai, amelyekben a termék megjelenik."}
   :label       {:en-gb "Product category codes"
-                :hu-hu "Termékkategória kódok"}}}
+                :hu-hu "Termékkategória kódok"}}
+
+ :selling-unit
+ {:description {:en-gb "Unit of measure the product is sold in."
+                :hu-hu "Kiszerelési egység, amelyben a termék eladásra kerül."}
+  :label       {:en-gb "Selling unit"
+                :hu-hu "Kiszerelési egység"}}}

@@ -1,6 +1,0 @@
-
-{:number-of-pivot-points
- {:description {:en-gb "Number of pivot points of the product."
-                :hu-hu "A termék forgáspontjainak száma."}
-  :label       {:en-gb "Number of pivot points"
-                :hu-hu "Forgáspontok száma"}}}

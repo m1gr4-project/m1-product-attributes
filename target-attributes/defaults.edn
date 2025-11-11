@@ -1,4 +1,11 @@
 
+; -----------------------------------------------------------------------------
+; Default values for maps of target attributes
+; -----------------------------------------------------------------------------
+;
+; :description (multilingual map)
+; A short description helping to understand the attribute.
+;
 ; :displayed-on-product-list? (boolean)
 ; Indicates whether the attribute is displayed on product cards when listed (e.g. as a search result).
 ;
@@ -15,18 +22,6 @@
 ; :excluded-from-feeds? (boolean)
 ; Indicates whether the attribute should be excluded from product feed operations.
 ;
-; :show-description? (boolean)
-; Indicates whether a short description is displayed to help understanding the attribute.
-;
-; :use-as-filter? (boolean)
-; Indicates whether the attribute can be used as a filter option on product list pages (e.g. search results page).
-;
-; :use-in-comparison? (boolean)
-; Indicates whether the attribute can be used to compare multiple products based on their related values.
-;
-; :description (multilingual map)
-; A short description helping to understand the attribute.
-;
 ; :label (multilingual map)
 ; A short label showing the attribute's name.
 ;
@@ -35,6 +30,15 @@
 ;
 ; :suffix (multilingual map)
 ; A universal value appended to each instance of the attribute's value.
+;
+; :show-description? (boolean)
+; Indicates whether a short description is displayed to help understanding the attribute.
+;
+; :use-as-filter? (boolean)
+; Indicates whether the attribute can be used as a filter option on product list pages (e.g. search results page).
+;
+; :use-in-comparison? (boolean)
+; Indicates whether the attribute can be used to compare multiple products based on their related values.
 
 
 
@@ -48,7 +52,6 @@
   :show-description?          false
   :use-as-filter?             false
   :use-in-comparison?         false
-  :value-type                 :text
   :description {:en-gb ""}
   :label       {:en-gb ""}
   :prefix      {:en-gb ""}
@@ -65,7 +68,6 @@
   :show-description?          false
   :use-as-filter?             true
   :use-in-comparison?         true
-  :value-type                 :text
   :description {:en-gb ""}
   :label       {:en-gb ""}
   :prefix      {:en-gb ""}

@@ -1,5 +1,11 @@
 
-{:dish-elevation-angle
+{:covered-regions
+ {:description {:en-gb "Regions covered by the product."
+                :hu-hu "A termék által lefedett régiók."}
+  :label       {:en-gb "Covered regions"
+                :hu-hu "Lefedett régiók"}}
+
+ :dish-elevation-angle
  {:description {:en-gb "Elevation or tilt angle range of the satellite dish."
                 :hu-hu "A műholdas antenna dőlésszög-tartománya."}
   :label       {:en-gb "Satellite dish tilt angle range"

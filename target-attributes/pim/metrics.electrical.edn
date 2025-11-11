@@ -5,23 +5,11 @@
   :label       {:en-gb "Battery capacity"
                 :hu-hu "Akkumulátorkapacitás"}}
 
- :cable-cross-sectional-area
- {:description {:en-gb "Cable cross-sectional area of the product."
-                :hu-hu "A termék kábel-keresztmetszeti területe."}
-  :label       {:en-gb "Cable cross section"
-                :hu-hu "Kábel-keresztmetszet"}}
-
  :cable-length
  {:description {:en-gb "Cable length of the product."
                 :hu-hu "A termék kábelhosszúsága."}
   :label       {:en-gb "Cable length"
                 :hu-hu "Kábelhosszúság"}}
-
- :cable-wire-cross-section-area
- {:description {:en-gb "Cable / wire cross-sectional area of the product."
-                :hu-hu "A termék kábel / vezeték-keresztmetszeti területe."}
-  :label       {:en-gb "Cable / wire cross section"
-                :hu-hu "Kábel- / vezeték-keresztmetszet"}}
 
  :cable-wire-length
  {:description {:en-gb "Cable / wire length of the product."
@@ -69,4 +57,10 @@
  {:description {:en-gb "Nominal voltage of the product."
                 :hu-hu "A termék névleges feszültsége."}
   :label       {:en-gb "Nominal voltage"
-                :hu-hu "Névleges feszültség"}}}
+                :hu-hu "Névleges feszültség"}}
+
+ :wire-cross-sectional-area
+ {:description {:en-gb "Wire cross-sectional area of the product."
+                :hu-hu "A termék vezeték-keresztmetszeti területe."}
+  :label       {:en-gb "Wire cross section"
+                :hu-hu "vezeték-keresztmetszet"}}}

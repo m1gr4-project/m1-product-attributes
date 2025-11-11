@@ -9,4 +9,10 @@
  {:description {:en-gb "Indicates whether the product has forced ventilation."
                 :hu-hu "Jelzi, hogy a termék rendelkezik-e kényszerszellőzéssel."}
   :label       {:en-gb "With forced ventilation"
-                :hu-hu "Kényszerszellőzéssel"}}}
+                :hu-hu "Kényszerszellőzéssel"}}
+
+ :with-wheel-arch-cutout?
+ {:description {:en-gb "Indicates whether the product has wheel arch cutout."
+                :hu-hu "Jelzi, hogy a termék rendelkezik-e kerékdob-kivágással."}
+  :label       {:en-gb "With wheel arch cutout"
+                :hu-hu "Kerékdob-kivágással"}}}

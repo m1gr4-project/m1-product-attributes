@@ -17,6 +17,12 @@
   :label       {:en-gb "Features"
                 :hu-hu "Tulajdonságok"}}
 
+ :product-description-additional
+ {:description {:en-gb "Additional (secondary) description of the product."
+                :hu-hu "A termék kiegészítő (másodlagos) leírása."}
+  :label       {:en-gb "Additional product description"
+                :hu-hu "Kiegészítő termékleírás"}}
+
  :product-description-detailed
  {:description {:en-gb "Detailed description of the product."
                 :hu-hu "A termék részletes leírása."}

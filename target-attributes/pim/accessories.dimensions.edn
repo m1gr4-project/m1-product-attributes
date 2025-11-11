@@ -39,4 +39,10 @@
  {:description {:en-gb "Length of the supporting arm on the product."
                 :hu-hu "A termék tartókarjának hosszúsága."}
   :label       {:en-gb "Supporting arm length"
-                :hu-hu "Tartókar hosszúsága"}}}
+                :hu-hu "Tartókar hosszúsága"}}
+
+ :windowpane-dimensions
+ {:description {:en-gb "Windowpane dimensions of the product."
+                :hu-hu "A termék ablaktábla méretei."}
+  :label       {:en-gb "Windowpane dimensions"
+                :hu-hu "Ablaktábla méretek"}}}
