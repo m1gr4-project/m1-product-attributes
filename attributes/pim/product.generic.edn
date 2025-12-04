@@ -17,25 +17,25 @@
   :label       {:en-gb "Features"
                 :hu-hu "Tulajdonságok"}}
 
- :product-description-additional
+ :product-description.additional
  {:description {:en-gb "Additional (secondary) description of the product."
                 :hu-hu "A termék kiegészítő (másodlagos) leírása."}
   :label       {:en-gb "Additional product description"
                 :hu-hu "Kiegészítő termékleírás"}}
 
- :product-description-detailed
+ :product-description.detailed
  {:description {:en-gb "Detailed description of the product."
                 :hu-hu "A termék részletes leírása."}
   :label       {:en-gb "Detailed product description"
                 :hu-hu "Részletes termékleírás"}}
 
- :product-description-general
+ :product-description.general
  {:description {:en-gb "General description of the product."
                 :hu-hu "A termék általános leírása."}
   :label       {:en-gb "General product description"
                 :hu-hu "Általános termékleírás"}}
 
- :product-description-short
+ :product-description.short
  {:description {:en-gb "Short description of the product."
                 :hu-hu "A termék rövid leírása."}
   :label       {:en-gb "Short product description"

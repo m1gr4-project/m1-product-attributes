@@ -1,11 +1,11 @@
 
-{:output-cooling-capacity
+{:output.cooling-capacity
  {:description {:en-gb "Cooling capacity of the product."
                 :hu-hu "A termék hűtési teljesítménye."}
   :label       {:en-gb "Cooling capacity"
                 :hu-hu "Hűtési teljesítmény"}}
 
- :output-cooling-capacity-below-ambient
+ :output.cooling-capacity-below-ambient
  {:description {:en-gb "Cooling capacity of the product related to its environment."
                 :hu-hu "A termék hűtési teljesítménye a környezetéhez viszonyítva."}
   :label       {:en-gb "Cooling capacity (below ambient)"
@@ -17,25 +17,25 @@
   :label       {:en-gb "Power output"
                 :hu-hu "Kimeneti teljesítmény"}}
 
- :output-power-audio
+ :output-power.audio
  {:description {:en-gb "Music power output of the product."
                 :hu-hu "A termék zenei kimeneti teljesítménye."}
   :label       {:en-gb "Music power output"
                 :hu-hu "Zenei teljesítmény"}}
 
- :output-power-continuous
+ :output-power.continuous
  {:description {:en-gb "Continuous power output of the product."
                 :hu-hu "A termék folyamatos (tartós) kimeneti teljesítménye."}
   :label       {:en-gb "Continuous power output"
                 :hu-hu "Folyamatos kimeneti teljesítmény"}}
 
- :output-power-peak
+ :output-power.peak
  {:description {:en-gb "Peak power output / peak performance capacity of the product."
                 :hu-hu "A termék pillanatnyi maximális kimeneti teljesítménye."}
   :label       {:en-gb "Peak power output"
                 :hu-hu "Pillanatnyi (max.) kimeneti teljesítmény"}}
 
- :output-power-thermal
+ :output-power.thermal
  {:description {:en-gb "Thermal power output of the product."
                 :hu-hu "A termék fűtési kimeneti teljesítménye."}
   :label       {:en-gb "Thermal power output"

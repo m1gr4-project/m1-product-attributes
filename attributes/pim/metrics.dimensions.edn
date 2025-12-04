@@ -1,35 +1,35 @@
 
-{:adjustable-height-max
+{:adjustable-height.max
  {:description {:en-gb "Maximum adjustable height of the product."
                 :hu-hu "A termék maximálisan beállítható magassága."}
   :label       {:en-gb "Max. adjustable height"
                 :hu-hu "Max. állítható magasság"}}
 
- :adjustable-height-min
+ :adjustable-height.min
  {:description {:en-gb "Minimum adjustable height of the product."
                 :hu-hu "A termék minimálisan beállítható magassága."}
   :label       {:en-gb "Min. adjustable height"
                 :hu-hu "Min. állítható magasság"}}
 
- :adjustable-length-max
+ :adjustable-length.max
  {:description {:en-gb "Maximum adjustable length of the product."
                 :hu-hu "A termék maximálisan beállítható hosszúsága."}
   :label       {:en-gb "Max. adjustable length"
                 :hu-hu "Max. állítható hosszúság"}}
 
- :adjustable-length-min
+ :adjustable-length.min
  {:description {:en-gb "Minimum adjustable length of the product."
                 :hu-hu "A termék minimálisan beállítható hosszúsága."}
   :label       {:en-gb "Min. adjustable length"
                 :hu-hu "Min. állítható hosszúság"}}
 
- :adjustable-width-max
+ :adjustable-width.max
  {:description {:en-gb "Maximum adjustable width of the product."
                 :hu-hu "A termék maximálisan beállítható szélessége."}
   :label       {:en-gb "Max. adjustable width"
                 :hu-hu "Max. állítható szélesség"}}
 
- :adjustable-width-min
+ :adjustable-width.min
  {:description {:en-gb "Minimum adjustable width of the product."
                 :hu-hu "A termék minimálisan beállítható szélessége."}
   :label       {:en-gb "Min. adjustable width"
@@ -71,73 +71,73 @@
   :label       {:en-gb "Diameter"
                 :hu-hu "Átmérő"}}
 
- :dimensions-d-h-w
+ :dimensions.d-h-w
  {:description {:en-gb "Dimensions of the product (Depth x Height x Width)."
                 :hu-hu "A termék méretei (Mélység x Magasság x Szélesség)."}
   :label       {:en-gb "Dimensions (D x H x W)"
                 :hu-hu "Méretek (Mé. x Ma. x Szé.)"}}
 
- :dimensions-d-w-h
+ :dimensions.d-w-h
  {:description {:en-gb "Dimensions of the product (Depth x Width x Height)."
                 :hu-hu "A termék méretei (Mélység x Szélesség x Magasság)."}
   :label       {:en-gb "Dimensions (D x W x H)"
                 :hu-hu "Méretek (Mé. x Szé. x Ma.)"}}
 
- :dimensions-h-d-w
+ :dimensions.h-d-w
  {:description {:en-gb "Dimensions of the product (Height x Depth x Width)."
                 :hu-hu "A termék méretei (Magasság x Mélység x Szélesség)."}
   :label       {:en-gb "Dimensions (H x D x W)"
                 :hu-hu "Méretek (Ma. x Mé. x Szé.)"}}
 
- :dimensions-h-w-d
+ :dimensions.h-w-d
  {:description {:en-gb "Dimensions of the product (Height x Width x Depth)."
                 :hu-hu "A termék méretei (Magasság x Szélesség x Mélység)."}
   :label       {:en-gb "Dimensions (H x W x D)"
                 :hu-hu "Méretek (Ma. x Szé. x Mé.)"}}
 
- :dimensions-h-l-w
+ :dimensions.h-l-w
  {:description {:en-gb "Dimensions of the product (Height x Length x Width)."
                 :hu-hu "A termék méretei (Magasság x Hosszúság x Szélesség)."}
   :label       {:en-gb "Dimensions (H x L x W)"
                 :hu-hu "Méretek (Ma. x Ho. x Szé.)"}}
 
- :dimensions-h-w-l
+ :dimensions.h-w-l
  {:description {:en-gb "Dimensions of the product (Height x Width x Length)."
                 :hu-hu "A termék méretei (Magasság x Szélesség x Hosszúság)."}
   :label       {:en-gb "Dimensions (H x W x L)"
                 :hu-hu "Méretek (Ma. x Szé. x Ho.)"}}
 
- :dimensions-l-h-w
+ :dimensions.l-h-w
  {:description {:en-gb "Dimensions of the product (Length x Height x Width)."
                 :hu-hu "A termék méretei (Hosszúság x Magasság x Szélesség)."}
   :label       {:en-gb "Dimensions (L x H x W)"
                 :hu-hu "Méretek (Ho. x Ma. x Szé.)"}}
 
- :dimensions-l-w-h
+ :dimensions.l-w-h
  {:description {:en-gb "Dimensions of the product (Length x Width x Height)."
                 :hu-hu "A termék méretei (Hosszúság x Szélesség x Magasság)."}
   :label       {:en-gb "Dimensions (L x W x H)"
                 :hu-hu "Méretek (Ho. x Szé. x Ma.)"}}
 
- :dimensions-w-d-h
+ :dimensions.w-d-h
  {:description {:en-gb "Dimensions of the product (Width x Depth x Height)."
                 :hu-hu "A termék méretei (Szélesség x Mélység x Magasság)."}
   :label       {:en-gb "Dimensions (W x D x H)"
                 :hu-hu "Méretek (Szé. x Mé. x Ma.)"}}
 
- :dimensions-w-h-d
+ :dimensions.w-h-d
  {:description {:en-gb "Dimensions of the product (Width x Height x Depth)."
                 :hu-hu "A termék méretei (Szélesség x Magasság x Mélység)."}
   :label       {:en-gb "Dimensions (W x H x D)"
                 :hu-hu "Méretek (Szé. x Ma. x Mé.)"}}
 
- :dimensions-w-h-l
+ :dimensions.w-h-l
  {:description {:en-gb "Dimensions of the product (Width x Height x Length)."
                 :hu-hu "A termék méretei (Szélesség x Magasság x Hosszúság)."}
   :label       {:en-gb "Dimensions (W x H x L)"
                 :hu-hu "Méretek (Szé. x Ma. x Ho.)"}}
 
- :dimensions-w-l-h
+ :dimensions.w-l-h
  {:description {:en-gb "Dimensions of the product (Width x Length x Height)."
                 :hu-hu "A termék méretei (Szélesség x Hosszúság x Magasság)."}
   :label       {:en-gb "Dimensions (W x L x H)"
@@ -185,73 +185,73 @@
   :label       {:en-gb "Net capacity"
                 :hu-hu "Hasznos térfogat"}}
 
- :net-dimensions-d-h-w
+ :net-dimensions.d-h-w
  {:description {:en-gb "Net dimensions of the product (Depth x Height x Width)."
                 :hu-hu "A termék hasznos méretei (Mélység x Magasság x Szélesség)."}
   :label       {:en-gb "Net dimensions (D x H x W)"
                 :hu-hu "Hasznos méretek (Mé. x Ma. x Szé.)"}}
 
- :net-dimensions-d-w-h
+ :net-dimensions.d-w-h
  {:description {:en-gb "Net dimensions of the product (Depth x Width x Height)."
                 :hu-hu "A termék hasznos méretei (Mélység x Szélesség x Magasság)."}
   :label       {:en-gb "Net dimensions (D x W x H)"
                 :hu-hu "Hasznos méretek (Mé. x Szé. x Ma.)"}}
 
- :net-dimensions-h-d-w
+ :net-dimensions.h-d-w
  {:description {:en-gb "Net dimensions of the product (Height x Depth x Width)."
                 :hu-hu "A termék hasznos méretei (Magasság x Mélység x Szélesség)."}
   :label       {:en-gb "Net dimensions (H x D x W)"
                 :hu-hu "Hasznos méretek (Ma. x Mé. x Szé.)"}}
 
- :net-dimensions-h-w-d
+ :net-dimensions.h-w-d
  {:description {:en-gb "Net dimensions of the product (Height x Width x Depth)."
                 :hu-hu "A termék hasznos méretei (Magasság x Szélesség x Mélység)."}
   :label       {:en-gb "Net dimensions (H x W x D)"
                 :hu-hu "Hasznos méretek (Ma. x Szé. x Mé.)"}}
 
- :net-dimensions-h-l-w
+ :net-dimensions.h-l-w
  {:description {:en-gb "Net dimensions of the product (Height x Length x Width)."
                 :hu-hu "A termék hasznos méretei (Magasság x Hosszúság x Szélesség)."}
   :label       {:en-gb "Net dimensions (H x L x W)"
                 :hu-hu "Hasznos méretek (Ma. x Ho. x Szé.)"}}
 
- :net-dimensions-h-w-l
+ :net-dimensions.h-w-l
  {:description {:en-gb "Net dimensions of the product (Height x Width x Length)."
                 :hu-hu "A termék hasznos méretei (Magasság x Szélesség x Hosszúság)."}
   :label       {:en-gb "Net dimensions (H x W x L)"
                 :hu-hu "Hasznos méretek (Ma. x Szé. x Ho.)"}}
 
- :net-dimensions-l-h-w
+ :net-dimensions.l-h-w
  {:description {:en-gb "Net dimensions of the product (Length x Height x Width)."
                 :hu-hu "A termék hasznos méretei (Hosszúság x Magasság x Szélesség)."}
   :label       {:en-gb "Net dimensions (L x H x W)"
                 :hu-hu "Hasznos méretek (Ho. x Ma. x Szé.)"}}
 
- :net-dimensions-l-w-h
+ :net-dimensions.l-w-h
  {:description {:en-gb "Net dimensions of the product (Length x Width x Height)."
                 :hu-hu "A termék hasznos méretei (Hosszúság x Szélesség x Magasság)."}
   :label       {:en-gb "Net dimensions (L x W x H)"
                 :hu-hu "Hasznos méretek (Ho. x Szé. x Ma.)"}}
 
- :net-dimensions-w-d-h
+ :net-dimensions.w-d-h
  {:description {:en-gb "Net dimensions of the product (Width x Depth x Height)."
                 :hu-hu "A termék hasznos méretei (Szélesség x Mélység x Magasság)."}
   :label       {:en-gb "Net dimensions (W x D x H)"
                 :hu-hu "Hasznos méretek (Szé. x Mé. x Ma.)"}}
 
- :net-dimensions-w-h-d
+ :net-dimensions.w-h-d
  {:description {:en-gb "Net dimensions of the product (Width x Height x Depth)."
                 :hu-hu "A termék hasznos méretei (Szélesség x Magasság x Mélység)."}
   :label       {:en-gb "Net dimensions (W x H x D)"
                 :hu-hu "Hasznos méretek (Szé. x Ma. x Mé.)"}}
 
- :net-dimensions-w-h-l
+ :net-dimensions.w-h-l
  {:description {:en-gb "Net dimensions of the product (Width x Height x Length)."
                 :hu-hu "A termék hasznos méretei (Szélesség x Magasság x Hosszúság)."}
   :label       {:en-gb "Net dimensions (W x H x L)"
                 :hu-hu "Hasznos méretek (Szé. x Ma. x Ho.)"}}
 
- :net-dimensions-w-l-h
+ :net-dimensions.w-l-h
  {:description {:en-gb "Net dimensions of the product (Width x Length x Height)."
                 :hu-hu "A termék hasznos méretei (Szélesség x Hosszúság x Magasság)."}
   :label       {:en-gb "Net dimensions (W x L x H)"
@@ -263,13 +263,13 @@
   :label       {:en-gb "Outer diameter"
                 :hu-hu "Külső átmérő"}}
 
- :projection-max
+ :projection.max
  {:description {:en-gb "Maximum projection of the product."
                 :hu-hu "A termék maximális kinyúlása."}
   :label       {:en-gb "Max. projection"
                 :hu-hu "Max. kinyúlás"}}
 
- :projection-min
+ :projection.min
  {:description {:en-gb "Minimum projection of the product."
                 :hu-hu "A termék minimális kinyúlása."}
   :label       {:en-gb "Min. projection"

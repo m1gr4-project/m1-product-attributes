@@ -5,13 +5,13 @@
   :label       {:en-gb "Air connection"
                 :hu-hu "Levegő csatlakozás"}}
 
- :air-connection-cold
+ :air-connection.cold
  {:description {:en-gb "Type of the cold air connection fitting(s) on the product."
                 :hu-hu "A termék hideglevegő csatlakozó-szerelvényeinek típusa."}
   :label       {:en-gb "Cold air connection"
                 :hu-hu "Hideglevegő csatlakozás"}}
 
- :air-connection-hot
+ :air-connection.hot
  {:description {:en-gb "Type of the hot air connection fitting(s) on the product."
                 :hu-hu "A termék meleglevegő csatlakozó-szerelvényeinek típusa."}
   :label       {:en-gb "Hot air connection"
@@ -41,13 +41,13 @@
   :label       {:en-gb "Water connection"
                 :hu-hu "Vízcsatlakozás"}}
 
- :water-connection-cold
+ :water-connection.cold
  {:description {:en-gb "Type of the cold water connection fitting(s) on the product."
                 :hu-hu "A termék hidegvíz-csatlakozó szerelvényeinek típusa."}
   :label       {:en-gb "Cold water connection"
                 :hu-hu "Hidegvíz-csatlakozás"}}
 
- :water-connection-hot
+ :water-connection.hot
  {:description {:en-gb "Type of the hot water connection fitting(s) on the product."
                 :hu-hu "A termék melegvíz-csatlakozó szerelvényeinek típusa."}
   :label       {:en-gb "Hot water connection"

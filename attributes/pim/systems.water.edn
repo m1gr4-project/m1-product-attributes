@@ -29,25 +29,25 @@
   :label       {:en-gb "Pumping height"
                 :hu-hu "Szállítómagasság"}}
 
- :tank-capacity-flush-water
+ :tank-capacity-of-flush-water
  {:description {:en-gb "Capacity of the flush water tank included with the product."
                 :hu-hu "A termék öblítővíztartályának kapacitása."}
   :label       {:en-gb "Flush water tank capacity"
                 :hu-hu "Öblítővíztartály-kapacitás"}}
 
- :tank-capacity-fresh-water
+ :tank-capacity-of-fresh-water
  {:description {:en-gb "Capacity of the fresh water tank included with the product."
                 :hu-hu "A termék frissvíztartályának kapacitása."}
   :label       {:en-gb "Fresh water tank capacity"
                 :hu-hu "Frissvíztartály-kapacitás"}}
 
- :tank-capacity-grey-water
+ :tank-capacity-of-grey-water
  {:description {:en-gb "Capacity of the grey water tank included with the product."
                 :hu-hu "A termék szürkevíztartályának kapacitása."}
   :label       {:en-gb "Grey water tank capacity"
                 :hu-hu "Szürkevíztartály-kapacitás"}}
 
- :tank-capacity-waste-water
+ :tank-capacity-of-waste-water
  {:description {:en-gb "Capacity of the waste water tank included with the product."
                 :hu-hu "A termék szennyvíztartályának kapacitása."}
   :label       {:en-gb "Waste water tank capacity"

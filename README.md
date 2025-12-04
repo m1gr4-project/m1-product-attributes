@@ -1,2 +1,3 @@
+
 # m1-product-attributes
-Product attribute catalog for M1GR4 project.
+Multilingual product attribute catalog for the M1GR4 project.

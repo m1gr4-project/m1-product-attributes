@@ -11,14 +11,14 @@
   :label       {:en-gb "Body height"
                 :hu-hu "Testmagasság"}}
 
- :temperature-rating-comfort
+ :temperature-rating.comfort
  {:show-description? true
   :description {:en-gb "Comfort temperature rating of the product."
                 :hu-hu "A termék komfort hőmérsékleti besorolása."}
   :label       {:en-gb "Comfort temperature rating"
                 :hu-hu "Komfort hőmérsékleti besorolás"}}
 
- :temperature-rating-extreme
+ :temperature-rating.extreme
  {:show-description? true
   :description {:en-gb "Minimum survival temperature rating of the product (EN / ISO standard)."
                 :hu-hu "A termék minimális túlélési hőmérsékleti besorolása (EN / ISO szabvány)."}

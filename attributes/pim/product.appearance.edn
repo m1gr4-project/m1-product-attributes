@@ -11,19 +11,19 @@
   :label       {:en-gb "Color / surface finishing"
                 :hu-hu "Szín / felületkezelés"}}
 
- :color-primary
+ :color.primary
  {:description {:en-gb "Primary color of the product."
                 :hu-hu "A termék elsődleges színe."}
   :label       {:en-gb "Primary color"
                 :hu-hu "Elsődleges szín"}}
 
- :color-secondary
+ :color.secondary
  {:description {:en-gb "Secondary color of the product."
                 :hu-hu "A termék másodlagos színe."}
   :label       {:en-gb "Secondary color"
                 :hu-hu "Másodlagos szín"}}
 
- :color-tertiary
+ :color.tertiary
  {:description {:en-gb "Tertiary color of the product."
                 :hu-hu "A termék harmadlagos színe."}
   :label       {:en-gb "Tertiary color"

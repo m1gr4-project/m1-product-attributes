@@ -7,7 +7,7 @@
 
  :open-circuit-voltage
  {:description {:en-gb "Open-circuit voltage rating of the product."
-                :hu-hu "A termék Üresjárati feszültség besorolása."}
+                :hu-hu "A termék üresjárati feszültség besorolása."}
   :label       {:en-gb "Open-circuit voltage"
                 :hu-hu "Üresjárati feszültség"}}
 

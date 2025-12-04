@@ -5,13 +5,13 @@
   :label       {:en-gb "Compatible platforms"
                 :hu-hu "Kompatibilis platformok"}}
 
- :compatible-screen-size-max
+ :compatible-screen-size.max
  {:description {:en-gb "Maximum screen size the product is compatible with."
                 :hu-hu "Maximális képernyőméret, amellyel a termék kompatibilis."}
   :label       {:en-gb "Max. screen size"
                 :hu-hu "Max. képernyőméret"}}
 
- :compatible-screen-size-min
+ :compatible-screen-size.min
  {:description {:en-gb "Minimum screen size the product is compatible with."
                 :hu-hu "Minimális képernyőméret, amellyel a termék kompatibilis."}
   :label       {:en-gb "Min. screen size"

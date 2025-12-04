@@ -1,5 +1,5 @@
 
-{:net-capacity-freezer-compartment
+{:net-capacity-of-freezer-compartment
  {:description {:en-gb "Freezer compartment net capacity of the product."
                 :hu-hu "A termék fagyasztórekeszének hasznos térfogata."}
   :label       {:en-gb "Freezer compartment net capacity"

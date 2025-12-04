@@ -11,19 +11,13 @@
   :label       {:en-gb "Cable length"
                 :hu-hu "Kábelhosszúság"}}
 
- :cable-wire-length
- {:description {:en-gb "Cable / wire length of the product."
-                :hu-hu "A termék kábel- / vezetékhosszúsága."}
-  :label       {:en-gb "Cable / wire length"
-                :hu-hu "Kábel- / vezetékhosszúság"}}
-
- :charging-current-max
+ :charging-current.max
  {:description {:en-gb "Maximum charging current of the product."
                 :hu-hu "A termék maximális töltőárama."}
   :label       {:en-gb "Maximum charging current"
                 :hu-hu "Maximális töltőáram"}}
 
- :charging-current-output
+ :charging-current.output
  {:description {:en-gb "Charging current output of the product."
                 :hu-hu "A termék kimeneti töltőárama."}
   :label       {:en-gb "Charging current output"

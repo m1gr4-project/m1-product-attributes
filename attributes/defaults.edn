@@ -4,13 +4,13 @@
 ; -----------------------------------------------------------------------------
 ;
 ; :description (multilingual map)
-; A short description helping to understand the attribute.
+; A short description / helper for users to understand the attribute.
 ;
 ; :displayed-on-product-list? (boolean)
 ; Indicates whether the attribute is displayed on product cards when listed (e.g. as a search result).
 ;
 ; :displayed-on-product-page? (boolean)
-; Indicates whether the attribute is displayed on product pages (within product details section).
+; Indicates whether the attribute is displayed on product pages (e.g. within product details section).
 ; If false the attribute can be still displayed if handled individually!
 ;
 ; displayed-when-logged-out? (boolean)
@@ -42,7 +42,7 @@
 
 
 
-; Default values for internal attributes
+{; Default values for internal attributes
  :internal-attribute-defaults
  {:displayed-on-product-list? false
   :displayed-on-product-page? false
@@ -59,7 +59,7 @@
 
 
 
-; Default values for PIM attributes
+ ; Default values for PIM attributes
  :pim-attribute-defaults
  {:displayed-on-product-list? false
   :displayed-on-product-page? true
@@ -72,3 +72,38 @@
   :label       {:en-gb ""}
   :prefix      {:en-gb ""}
   :suffix      {:en-gb ""}}
+
+
+
+; -----------------------------------------------------------------------------
+; Default values for maps of source attributes
+; -----------------------------------------------------------------------------
+;
+; :export-type (keyword)
+; Specifies what type the attribute value should be converted into.
+; - Booleans are represented with "0" and "1".
+; - Numeric types are stored as strings (only evaluated when / where needed).
+; - Lists are stored as strings (separated by commas).
+; - Strings are default types for translated attribute values.
+; :boolean, :text
+;
+; :import-strategy (keyword)
+; Specifies which import strategy should be applied when the target attribute has been already populated.
+; :overwrite, :append, :prepend, :ignore
+; Default: :append
+;
+; :source-language (keywords in map)
+; Specifies the source language for translating the attribute value (when found multilingual in product data input).
+; {:primary ..., :fallback ...}
+;
+; :target-key (keyword)
+; Specifies the target key within the product data output where the translated attribute value should be stored.
+
+
+
+ ; Default values for source attributes
+ :source-attribute-defaults
+ {:export-type     :text
+  :import-strategy :append
+  :source-language {:primary :en :fallback :de}
+  :target-key      nil}}

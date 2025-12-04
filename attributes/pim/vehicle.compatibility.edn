@@ -3,117 +3,117 @@
  {:show-description? true
   :description {:en-gb "Vehicle chassis configuration(s) the product is compatible with."
                 :hu-hu "Járműalváz-konfiguráció(k), amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle chassis"
-                :hu-hu "Járműalváz"}}
+  :label       {:en-gb "Compatible vehicle chassis"
+                :hu-hu "Kompatibilis járműalváz"}}
 
  :compatible-vehicle-axles
  {:show-description? true
   :description {:en-gb "Vehicle axle configuration(s) the product is compatible with."
                 :hu-hu "Járműtengely-konfiguráció(k), amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle axles"
-                :hu-hu "Járműtengelyek"}}
+  :label       {:en-gb "Compatible vehicle axles"
+                :hu-hu "Kompatibilis járműtengelyek"}}
 
  :compatible-vehicle-empty-weight
  {:show-description? true
   :description {:en-gb "Vehicle empty weight the product is compatible with."
                 :hu-hu "Jármű üres tömeg, amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle empty weight"
-                :hu-hu "Jármű üres tömeg"}}
+  :label       {:en-gb "Compatible vehicle empty weight"
+                :hu-hu "Kompatibilis jármű üres tömeg"}}
 
  :compatible-vehicle-heights
  {:show-description? true
   :description {:en-gb "Vehicle height(s) the product is compatible with."
                 :hu-hu "Járműmagasság(ok), amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle heights"
-                :hu-hu "Járműmagasságok"}}
+  :label       {:en-gb "Compatible vehicle heights"
+                :hu-hu "Kompatibilis járműmagasságok"}}
 
  :compatible-vehicle-height-classes
  {:show-description? true
   :description {:en-gb "Vehicle height class(es) (H1, H2, H3, ...) the product is compatible with."
                 :hu-hu "Járműmagassági osztály(ok) (H1, H2, H3, ...), amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle height classes"
-                :hu-hu "Járműmagassági osztályok"}}
+  :label       {:en-gb "Compatible vehicle height classes"
+                :hu-hu "Kompatibilis járműmagassági osztályok"}}
 
  :compatible-vehicle-height-range
  {:show-description? true
   :description {:en-gb "Vehicle height range the product is compatible with."
                 :hu-hu "Járműmagasság-tartomány, amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle height range"
-                :hu-hu "Járműmagasság-tartomány"}}
+  :label       {:en-gb "Compatible vehicle height range"
+                :hu-hu "Kompatibilis járműmagasság-tartomány"}}
 
  :compatible-vehicle-lengths
  {:show-description? true
   :description {:en-gb "Vehicle length(s) the product is compatible with."
                 :hu-hu "Járműhosszúság(ok), amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle lengths"
-                :hu-hu "Járműhosszúságok"}}
+  :label       {:en-gb "Compatible vehicle lengths"
+                :hu-hu "Kompatibilis járműhosszúságok"}}
 
  :compatible-vehicle-length-classes
  {:show-description? true
   :description {:en-gb "Vehicle length class(es) (L1, L2, L3, ...) the product is compatible with."
                 :hu-hu "Járműhosszúsági osztály(ok) (L1, L2, L3, ...), amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle length classes"
-                :hu-hu "Járműhosszúsági osztályok"}}
+  :label       {:en-gb "Compatible vehicle length classes"
+                :hu-hu "Kompatibilis járműhosszúsági osztályok"}}
 
  :compatible-vehicle-length-range
  {:show-description? true
   :description {:en-gb "Vehicle length range the product is compatible with."
                 :hu-hu "Járműhosszúság-tartomány, amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle length range"
-                :hu-hu "Járműhosszúság-tartomány"}}
+  :label       {:en-gb "Compatible vehicle length range"
+                :hu-hu "Kompatibilis járműhosszúság-tartomány"}}
 
  :compatible-vehicle-max-permissible-weight
  {:show-description? true
   :description {:en-gb "Vehicle permissible weight the product is compatible with."
                 :hu-hu "Jármű megengedett össztömeg, amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle permissible weight"
-                :hu-hu "Jármű megengedett össztömeg"}}
+  :label       {:en-gb "Compatible vehicle permissible weight"
+                :hu-hu "Kompatibilis jármű megengedett össztömeg"}}
 
- :compatible-vehicle-model-year-from
+ :compatible-vehicle-model-year.from
  {:show-description? true
   :description {:en-gb "First model year or date from which the product is compatible with the specified vehicle models."
                 :hu-hu "Az első modellév vagy dátum, amelytől a termék kompatibilis a meghatározott járműmodellekkel."}
   :label       {:en-gb "Vehicle model year (from)"
                 :hu-hu "Jármű gyártási év (-tól)"}}
 
- :compatible-vehicle-model-year-until
+ :compatible-vehicle-model-year.until
  {:show-description? true
   :description {:en-gb "Last model year or date until which the product is compatible with the specified vehicle models."
                 :hu-hu "Az utolsó modellév vagy dátum, ameddig a termék kompatibilis a meghatározott járműmodellekkel."}
-  :label       {:en-gb "Vehicle model year (until)"
-                :hu-hu "Jármű gyártási év (-ig)"}}
+  :label       {:en-gb "Compatible vehicle model year (until)"
+                :hu-hu "Kompatibilis jármű gyártási év (-ig)"}}
 
  :compatible-vehicle-models
  {:show-description? true
   :description {:en-gb "Vehicle model(s) the product is compatible with."
                 :hu-hu "Járműmodell(ek), amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle models"
-                :hu-hu "Járműmodellek"}}
+  :label       {:en-gb "Compatible vehicle models"
+                :hu-hu "Kompatibilis járműmodellek"}}
 
  :compatible-vehicle-types
  {:show-description? true
   :description {:en-gb "Vehicle type(s) the product is compatible with."
                 :hu-hu "Járműtípus(ok), amelyekkel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle types"
-                :hu-hu "Járműtípusok"}}
+  :label       {:en-gb "Compatible vehicle types"
+                :hu-hu "Kompatibilis járműtípusok"}}
 
  :compatible-vehicle-widths
  {:show-description? true
   :description {:en-gb "Vehicle width(s) the product is compatible with."
                 :hu-hu "Járműszélesség(ek), amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle widths"
-                :hu-hu "Járműszélességek"}}
+  :label       {:en-gb "Compatible vehicle widths"
+                :hu-hu "Kompatibilis járműszélességek"}}
 
  :compatible-vehicle-width-classes
  {:show-description? true
   :description {:en-gb "Vehicle width class(es) (W1, W2, W3, ...) the product is compatible with."
                 :hu-hu "Járműszélességi osztály(ok) (W1, W2, W3, ...), amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle width classes"
-                :hu-hu "Járműszélességi osztályok"}}
+  :label       {:en-gb "Compatible vehicle width classes"
+                :hu-hu "Kompatibilis járműszélességi osztályok"}}
 
  :compatible-vehicle-width-range
  {:show-description? true
   :description {:en-gb "Vehicle width range the product is compatible with."
                 :hu-hu "Járműszélesség-tartomány, amellyel a termék kompatibilis."}
-  :label       {:en-gb "Vehicle width range"
-                :hu-hu "Járműszélesség-tartomány"}}}
+  :label       {:en-gb "Compatible vehicle width range"
+                :hu-hu "Kompatibilis járműszélesség-tartomány"}}}

@@ -1,17 +1,17 @@
 
-{:packaging-dimension-largest
+{:packaging-dimension.largest
  {:description {:en-gb "Largest dimension of the product in packed state."
                 :hu-hu "A termék legnagyobb mérete csomagolt állapotban."}
   :label       {:en-gb "Packaging dimension (largest)"
                 :hu-hu "Csomagolási méret (legnagyobb)"}}
 
- :packaging-dimension-smallest
+ :packaging-dimension.smallest
  {:description {:en-gb "Smallest dimension of the product in packed state."
                 :hu-hu "A termék legkisebb mérete csomagolt állapotban."}
   :label       {:en-gb "Packaging dimension (smallest)"
                 :hu-hu "Csomagolási méret (legkisebb)"}}
 
- :packaging-dimension-middle
+ :packaging-dimension.middle
  {:description {:en-gb "Middle dimension of the product in packed state."
                 :hu-hu "A termék közepes mérete csomagolt állapotban."}
   :label       {:en-gb "Packaging dimension (middle)"

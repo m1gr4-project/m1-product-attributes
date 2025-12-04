@@ -1,17 +1,17 @@
 
-{:force-pull
+{:force.pull
  {:description {:en-gb "Pull force of the product."
                 :hu-hu "A termék húzóereje."}
   :label       {:en-gb "Pull force"
                 :hu-hu "Húzóerő"}}
 
- :force-push
+ :force.push
  {:description {:en-gb "Push force of the product."
                 :hu-hu "A termék nyomóereje."}
   :label       {:en-gb "Push force"
                 :hu-hu "Nyomóerő"}}
 
- :force-thrust
+ :force.thrust
  {:description {:en-gb "Thrust force of the product."
                 :hu-hu "A termék tolóereje."}
   :label       {:en-gb "Thrust force"
@@ -23,13 +23,19 @@
   :label       {:en-gb "Pressure"
                 :hu-hu "Nyomás"}}
 
- :pressure-max
+ :pressure.max-operating
  {:description {:en-gb "Maximum operating pressure of the product."
                 :hu-hu "A termék maximális üzemi nyomása."}
-  :label       {:en-gb "Maximum pressure"
-                :hu-hu "Maximális nyomás"}}
+  :label       {:en-gb "Max. operating pressure"
+                :hu-hu "Max. üzemi nyomás"}}
 
- :pressure-operating
+ :pressure.min-operating
+ {:description {:en-gb "Minimum operating pressure of the product."
+                :hu-hu "A termék minimális üzemi nyomása."}
+  :label       {:en-gb "Min. operating pressure"
+                :hu-hu "Min. üzemi nyomás"}}
+
+ :pressure.operating
  {:description {:en-gb "Operating pressure range of the product."
                 :hu-hu "A termék üzemi nyomástartománya."}
   :label       {:en-gb "Operating pressure"
@@ -53,37 +59,43 @@
   :label       {:en-gb "Temperature"
                 :hu-hu "Hőmérséklet"}}
 
- :temperature-max
+ :temperature.max-operating
  {:description {:en-gb "Maximum operating temperature of the product."
                 :hu-hu "A termék maximális üzemi hőmérséklete."}
-  :label       {:en-gb "Maximum temperature"
-                :hu-hu "Maximális hőmérséklet"}}
+  :label       {:en-gb "Max. operating temperature"
+                :hu-hu "Max. üzemi hőmérséklet"}}
 
- :temperature-operating
+ :temperature.min-operating
+ {:description {:en-gb "Minimal operating temperature of the product."
+                :hu-hu "A termék minimális üzemi hőmérséklete."}
+  :label       {:en-gb "Min. operating temperature"
+                :hu-hu "Min. üzemi hőmérséklet"}}
+
+ :temperature.operating
  {:description {:en-gb "Operating temperature range of the product."
                 :hu-hu "A termék üzemi hőmérséklet tartománya."}
   :label       {:en-gb "Operating temperature"
                 :hu-hu "Üzemi hőmérséklet"}}
 
- :weight-load-capacity
+ :weight.load-capacity
  {:description {:en-gb "Maximum weight the product can carry, transport, or hold."
                 :hu-hu "A termék terhelhetősége."}
   :label       {:en-gb "Load capacity"
                 :hu-hu "Terhelhetőség"}}
 
- :weight-max-load
+ :weight.max-load
  {:description {:en-gb "Maximum weight that can be applied to or placed on the product."
                 :hu-hu "A termék maximális terhelhetősége."}
   :label       {:en-gb "Max. load"
                 :hu-hu "Max. terhelhetőség"}}
 
- :weight-net
+ :weight.net
  {:description {:en-gb "Net weight of the product."
                 :hu-hu "A termék nettó tömege."}
   :label       {:en-gb "Net weight"
                 :hu-hu "Nettó tömeg"}}
 
- :weight-gross
+ :weight.gross
  {:description {:en-gb "Gross weight of the product."
                 :hu-hu "A termék bruttó tömege."}
   :label       {:en-gb "Gross weight"
